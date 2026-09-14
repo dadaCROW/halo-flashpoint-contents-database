@@ -1,0 +1,61 @@
+{
+          "GUID": "2369b1",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 24.0643158,
+            "posY": 7.66133928,
+            "posZ": -30.1949558,
+            "rotX": 0.000269320415,
+            "rotY": 0.0107480986,
+            "rotZ": -0.0006714015,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "MA40 Assault Rifle",
+          "Description": "Points: 7\n\nRange: R4   AP: -\nRapid Fire, Weight of Fire (2)",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 43000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "430": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11843628564808652031/AC7C5C8E85A969D1DEC8EDA2F6BF5F620A4669B7/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/11843628564808652031/AC7C5C8E85A969D1DEC8EDA2F6BF5F620A4669B7/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,61 @@
+{
+          "GUID": "603467",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 19.8826866,
+            "posY": 7.2142725,
+            "posZ": -29.2643032,
+            "rotX": 359.903717,
+            "rotY": 358.022858,
+            "rotZ": 0.760761,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Needle Rifle",
+          "Description": "Points: 8\n\nRange: R6   AP: -\nLethal (1), Optics, Rapid Fire",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 45300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "453": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11708223913712792080/F368D3F09C70AB747BA816672BAFEC69C9DA903E/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/11708223913712792080/F368D3F09C70AB747BA816672BAFEC69C9DA903E/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

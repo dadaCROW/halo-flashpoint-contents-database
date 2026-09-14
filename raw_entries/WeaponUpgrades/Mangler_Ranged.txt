@@ -1,0 +1,61 @@
+{
+          "GUID": "e3f67d",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 19.88921,
+            "posY": 7.23077154,
+            "posZ": -29.4030819,
+            "rotX": 0.205591992,
+            "rotY": 350.4927,
+            "rotZ": 1.31938231,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Mangler (Ranged)",
+          "Description": "Points: 6\n\nRange: R3   AP: 1\nKnockback",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 48500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "485": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14719986425817130164/302B1EF1A1A8C2DA2A2BC6BBFBE230C2751AA6FE/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13022352024706046972/70E6F323D16CCA036F48F0D1795E54A9F7964A7A/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

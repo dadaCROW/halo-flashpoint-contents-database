@@ -1,0 +1,135 @@
+{
+
+          "Name": "Custom_Model_Bag",
+          "Transform": {
+            "scaleX": 0.79,
+            "scaleY": 0.100000381,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Extra D8 Die",
+          "Description": "Points: 1\n\n[i]A single round, declare before rolling command[/i]\n\nOne Use",
+          "GMNotes": "",
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "CustomImage": {
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/17263146967158603343/FE94C599F17ECC3BA73C2B9B9012E858EC6CB431/",
+            "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/15173065217833484172/75FA5EA7E784DE4BD15200830FC5ED7C0D7B5ADB/",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1666858152071990826/9AD455F2CBAEC01B2CBCDDB8B6DC4CE48D14B545/",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 6,
+            "CastShadows": true
+          },
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "4c1769",
+              "Name": "Die_8",
+              "Transform": {
+                "scaleX": 0.87500006,
+                "scaleY": 0.87500006,
+                "scaleZ": 0.87500006
+              },
+              "Nickname": "Extra D8 Die",
+              "Description": "",
+              "GMNotes": "",
+              "Tags": [
+                "Dice"
+              ],
+              "Locked": false,
+              "Grid": false,
+              "Snap": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -33.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": -33.0,
+                    "y": 0.0,
+                    "z": 180.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 33.0,
+                    "y": 180.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 33.0,
+                    "y": 180.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 33.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 33.0,
+                    "y": 180.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -33.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": -33.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            }
+          ]
+        }

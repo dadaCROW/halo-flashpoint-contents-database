@@ -1,0 +1,61 @@
+{
+          "GUID": "2d4a64",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 19.9176865,
+            "posY": 7.17817926,
+            "posZ": -29.1731186,
+            "rotX": 359.685638,
+            "rotY": 357.2457,
+            "rotZ": -0.003632526,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Gravity Hammer",
+          "Description": "Points: 14\n\nRange: CC   AP: 1 \nESD (1), Knockback, Lethal (1), Smash (1)\r\n\r\nRange: R1   AP: - \nKnockback, Lethal (1), Lunge",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 43200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "432": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13233129242547873759/E84AF81E7AA81EE53CD4F0F133C1E13AD2D66476/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/11712128954618422025/ED4B73EBA29E03C509757DCF2A5D5837EFD8D0F1/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

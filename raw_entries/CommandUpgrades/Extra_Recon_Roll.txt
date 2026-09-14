@@ -1,0 +1,31 @@
+{
+
+          "Name": "Custom_Tile",
+          "Transform": {
+            "scaleX": 0.16,
+            "scaleY": 1.0,
+            "scaleZ": 0.2517619
+          },
+          "Nickname": "Extra Recon Roll",
+          "Description": "Points: 3\n\nExtra roll on the Recon table\n\n(Winner or Loser table, as appropriate)",
+          "GMNotes": "",
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "CustomImage": {
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/17263146967158603343/FE94C599F17ECC3BA73C2B9B9012E858EC6CB431/",
+            "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/15173065217833484172/75FA5EA7E784DE4BD15200830FC5ED7C0D7B5ADB/",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        
+        }

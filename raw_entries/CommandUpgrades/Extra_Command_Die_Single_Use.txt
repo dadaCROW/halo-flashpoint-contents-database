@@ -1,0 +1,124 @@
+{
+
+
+          "Name": "Extra Command Die (Single Use)",
+          "Transform": {
+            "posX": -51.68085,
+            "posY": 2.06809568,
+            "posZ": -16.5513783,
+            "rotX": -0.000139848969,
+            "rotY": 180.000092,
+            "rotZ": 2.940456E-05,
+            "scaleX": 0.79,
+            "scaleY": 0.100000441,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Extra Command Die\n(Single Use)",
+          "Description": "Points: 1\n\n[i]A single round, declare before rolling command[/i]\n\nOne Use",
+          "GMNotes": "",
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1666858152071990826/9AD455F2CBAEC01B2CBCDDB8B6DC4CE48D14B545/",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 6,
+            "CastShadows": true
+          },
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "Name": "Extra Command Die",
+              "Transform": {
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Extra Command Die",
+              "Description": "",
+              "GMNotes": "",
+              "Tags": [
+                "Command Dice",
+                "D6",
+                "Dice",
+                "Die"
+              ],
+              "Locked": false,
+              "Grid": false,
+              "Snap": true,
+              "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/29944717611615057/F1233F60E34D8005A72D5E3325B1014B02873B72/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomDice": {
+                  "Type": 1
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            }
+          ]
+        }

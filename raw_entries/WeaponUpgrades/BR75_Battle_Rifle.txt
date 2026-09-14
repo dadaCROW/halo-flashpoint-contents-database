@@ -1,0 +1,61 @@
+{
+          "GUID": "c12412",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 21.075386,
+            "posY": 9.042655,
+            "posZ": -29.577774,
+            "rotX": 16.9279575,
+            "rotY": 44.72872,
+            "rotZ": 342.9984,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "BR75 Battle Rifle",
+          "Description": "Points: 11\n\nRange: R5   AP: 1\nOptics, Rapid Fire, Weight of Fire (1)",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 44000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "440": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10643554110256513121/678756E0AC2C033AA7C9C435B57300064CBE85D9/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10643554110256513121/678756E0AC2C033AA7C9C435B57300064CBE85D9/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

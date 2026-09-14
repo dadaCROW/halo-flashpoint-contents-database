@@ -1,0 +1,61 @@
+{
+          "GUID": "0fecd4",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 21.7608948,
+            "posY": 8.675568,
+            "posZ": -29.8813877,
+            "rotX": 353.099518,
+            "rotY": 347.277863,
+            "rotZ": 336.122955,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "VK78 Commando",
+          "Description": "Points: 7\n\nRange: R6   AP: -\nOptics, Rapid Fire",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 45000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "450": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14313923189482056729/713184E5661DC36E7F9C65D179FE619DB832D8B5/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14313923189482056729/713184E5661DC36E7F9C65D179FE619DB832D8B5/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

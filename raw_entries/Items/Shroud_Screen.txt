@@ -1,0 +1,55 @@
+{
+      "GUID": "380a32",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -63.70564,
+        "posY": 7.15809155,
+        "posZ": -26.1787453,
+        "rotX": 2.105015E-06,
+        "rotY": 180.000015,
+        "rotZ": 2.38127614E-05,
+        "scaleX": 0.278148234,
+        "scaleY": 1.0,
+        "scaleZ": 0.278148234
+      },
+      "Nickname": "Shroud Screen",
+      "Description": "Points: 3\n\nWhen this Item is used, place the token in the holder's Cube, or any adjacent Cube within LOS. The Shroud Screen blocks LOS through, to, and out of that Cube for the rest of the Round, but the Cube itself may still be targeted.\n\nOne Use.",
+      "Tags": [
+        "Item Tokens"
+      ],
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/29943415586586864/01D26875DEA0CF849DF31A867A319CF3F99C8C35/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/29943415586586864/01D26875DEA0CF849DF31A867A319CF3F99C8C35/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "TRH_Class = \"token\"\r\n\r\nlocal config = {\r\n    --name: must be unique to your mod.\r\n    --url: url of the asset used on the marker. Consider the design of the image and use this one as an example (white with a black outline seems to work best for contrast's sake)\r\n    --color: valid hex color of the marker\r\n    --stacks: true or false - can the mini receive this marker more than once.\r\n    name=\"Plasma Grenade\", url=\"https://steamusercontent-a.akamaihd.net/ugc/29932428531830446/226AD4DF47B548A21EC2DB4E10DAF5DB4FAA2C14/\", color=\"#ffffff\", stacks=false\r\n}\r\n\r\n\r\nfunction onCollisionEnter(col)\r\n    config.count = math.max(1, self.getQuantity())\r\n    if ((col.collision_object.getVar(\"TRH_Class\") or \"\") == \"mini\") then\r\n        if (col.collision_object.call(\"addMarker\", config)) then end\r\n    end\r\nend",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedDecals": [
+        {
+          "Transform": {
+            "posX": -0.002303574,
+            "posY": -0.0100001665,
+            "posZ": -0.03847449,
+            "rotX": 270.0,
+            "rotY": 45.47693,
+            "rotZ": 0.0,
+            "scaleX": 2.02939987,
+            "scaleY": 2.02940273,
+            "scaleZ": 0.5644744
+          },
+          "CustomDecal": {
+            "Name": "Red X",
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/12404797106537295212/F03ECC840A85DDD7197B67B58D5A2A552B8036A6/",
+            "Size": 1.0
+          }
+        }
+      ]
+    }

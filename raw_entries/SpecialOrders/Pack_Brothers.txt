@@ -1,0 +1,61 @@
+{
+          "GUID": "9d821f",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 3.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Pack Brothers",
+          "Description": "Points: 6\n\nSpend a Special Order result after respawning a friendly Jiralhanae model to pick up to 2 unpinned friendly Jiralhanae models (Which may include the active model). One of those models may take a free Crouch action, and the other may take a free Advance action. This may not be used to move the model into a cube containing an enemy model.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Banished"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 90500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "905": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13077080176613255671/AEC396E29686752ADF25B4494B50BFCCDCCBBC83/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13077080176613255671/AEC396E29686752ADF25B4494B50BFCCDCCBBC83/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

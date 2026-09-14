@@ -1,0 +1,61 @@
+{
+          "GUID": "9450e1",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -21.8823929,
+            "posY": 3.45834136,
+            "posZ": -9.341166,
+            "rotX": -0.000249996025,
+            "rotY": 179.966568,
+            "rotZ": -0.000767186633,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Hot Drop",
+          "Description": "Points: 7\n\nWhen an ODST is respawning:\r\n\r\nInstead of using its first action to advance onto the board at a respawn point, you may spend a Special Order result to take an auxiliary action instead to deploy the model into any cube on the board which contains no models.  If the location contains a building, it must be placed on the highest level of that stack. \r\n\r\nRoll a 3 Dice Ranged test (2).  \r\n\r\nNo effect if the test is passed.\r\nIf failed, the model is Pinned and scatters into an adjacent cube (make a scatter toll to determine which direction - this is forced movement from the target cube).\r\nAt the start of the first round:\r\n\r\nImmediately after rolling Command Dice is completed, you may spend a Special Order result to remove one friendly ODST from the board and redeploy it as described as above (model placement and Ranged test). When that model activates, it will only have one short action to use that turn (ignore this restriction if the model is killed before it activates).  You may spend any number of Special Order results to redeploy that many ODST. ",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Spartan"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 51200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "512": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17677653840304820336/B1C72C8B9C2C7EDD6C81D43292AE7A9959A76F8B/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/5161025536425316/8C0199A9C7C7B2B5DB9F3E78F841874662BE51FC/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

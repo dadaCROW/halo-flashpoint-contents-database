@@ -1,0 +1,50 @@
+{
+      
+      "GUID": "3d1ba0",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "scaleX": 0.275,
+        "scaleY": 1.0,
+        "scaleZ": 0.275
+      },
+      "Nickname": "Dynamo Grenade (Equipment)",
+      "Description": "",
+      "Grid": false,
+      "Snap": true,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/15862863690653443928/293284A63CE3990E869CAF4C2047E3B73CB7F84E/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/15862863690653443928/293284A63CE3990E869CAF4C2047E3B73CB7F84E/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedDecals": [
+        {
+          "Transform": {
+            "posX": -0.0109724505,
+            "posY": 0.110000134,
+            "posZ": 0.0114440881,
+            "rotX": 90.0,
+            "rotY": 224.85614,
+            "rotZ": 0.0,
+            "scaleX": 2.48368526,
+            "scaleY": 2.483685,
+            "scaleZ": 0.683013439
+          },
+          "CustomDecal": {
+            "Name": "Big Red X",
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/12404797106537295212/F03ECC840A85DDD7197B67B58D5A2A552B8036A6/",
+            "Size": 1.0
+          },
+          "OwnerSteamID": 76561198059855257
+        }
+      ]
+    }

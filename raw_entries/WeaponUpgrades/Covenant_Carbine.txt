@@ -1,0 +1,61 @@
+{
+          "GUID": "f165ba",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 20.89557,
+            "posY": 9.250971,
+            "posZ": -29.6502037,
+            "rotX": 8.987992,
+            "rotY": 23.9103,
+            "rotZ": 158.317276,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Covenant Carbine",
+          "Description": "Points: 11\n\nRange: R6   AP: 1\nKnockback, Lethal (1), Optics",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 43500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "435": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13847265089704014264/C4E0BC37AB53701F374AB89C6AA2671ED8BD76E6/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13847265089704014264/C4E0BC37AB53701F374AB89C6AA2671ED8BD76E6/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,61 @@
+{
+          "GUID": "786809",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 21.0627213,
+            "posY": 5.33135366,
+            "posZ": -29.9231167,
+            "rotX": 353.2373,
+            "rotY": 18.11665,
+            "rotZ": 336.2433,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Pulse Carbine",
+          "Description": "Points: 5\n\nRange: R4   AP: 1 \nESD (1), Weight of Fire (1)",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 44700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "447": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9230848094726869313/113DE6D42799E3349BC1B46DCC387F6C63BF6044/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/9230848094726869313/113DE6D42799E3349BC1B46DCC387F6C63BF6044/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

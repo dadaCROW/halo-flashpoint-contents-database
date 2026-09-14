@@ -1,0 +1,30 @@
+{     
+
+          "Name": "Custom_Tile",
+          "Transform": {
+            "scaleX": 0.16479519,
+            "scaleY": 1.0,
+            "scaleZ": 0.2517619
+          },
+          "Nickname": "Advanced Reconnaissance",
+          "Description": "Points: 5\n\nAdvanced Reconnaissance - die rolls of 4+ count as a success for the Recon test.",
+          "GMNotes": "",
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "CustomImage": {
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/13366956101973482407/8308F2BAD2962BC71666D3735D256E24A06F0D01/",
+            "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/11430311905877901722/F3D777559B10071541B47F3E69F40E1B90B9C465/",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 3,
+              "Thickness": 0.1,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

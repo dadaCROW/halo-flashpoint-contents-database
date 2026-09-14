@@ -1,0 +1,79 @@
+{
+          "GUID": "8df8cc",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 23.90783,
+            "posY": 7.603547,
+            "posZ": -30.3719521,
+            "rotX": -0.000140004049,
+            "rotY": 0.00192034023,
+            "rotZ": -4.302508E-05,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Mauler",
+          "Description": "Points: 4\r\n\nRange: R2   AP: 1 \nESD (1), Knockback, Lethal (1)\n\nRange: CC   AP: -",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 51400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "514": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11965515908482469989/57395749AF1E596A710D737B00609EA7EF11ED27/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10775733768469512339/81FB2FECC60567CF95CC3AF624ACF10276F38D62/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "RotationValues": [
+            {
+              "Value": "Mauler (Ranged)",
+              "Rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "Mauler (Close Combat)",
+              "Rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 180.0
+              }
+            }
+          ]
+        }

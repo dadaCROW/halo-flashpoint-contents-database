@@ -1,0 +1,51 @@
+{
+      "GUID": "d0f9c1",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 1.33607864,
+        "posY": 9.536743E-07,
+        "posZ": 0.0,
+        "rotX": 1.84039436E-05,
+        "rotY": 180.0,
+        "rotZ": 7.949877E-05,
+        "scaleX": 0.278148234,
+        "scaleY": 1.0,
+        "scaleZ": 0.278148234
+      },
+      "Nickname": "Drop Wall",
+      "Description": "Points: 2\r\n\r\nPlace an Energy Shield Barrier (2) in the holder's Cube.\r\n\r\n[i]Instead of covering a single model, an ESB provides protection for every model, friend or foe, in the same cube. However; the protection is only effective against Ranged attacks as any attacker engaging in an Assault with CC weapons is already inside the Barrier.\r\n\r\nWhen the ESB is placed in a cube, place (n) Energy Shield Tokens with it. If a model is protected by more than one Energy Shield or Barrier during an attack, then all of them apply. Remove shields from the Barrier first, and then from the model's own Energy Shield. ESBs do not regenerate at the start of the Round.[/i]\r\n\r\nOne Use",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Tags": [
+        "Item Tokens"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/29943415586581704/EA13BC2422C7758BB845F20E29FE4C4B02BBD79F/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/29943415586581704/EA13BC2422C7758BB845F20E29FE4C4B02BBD79F/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "TRH_Class = \"token\"\r\n\r\nlocal config = {\r\n    --name: must be unique to your mod.\r\n    --url: url of the asset used on the marker. Consider the design of the image and use this one as an example (white with a black outline seems to work best for contrast's sake)\r\n    --color: valid hex color of the marker\r\n    --stacks: true or false - can the mini receive this marker more than once.\r\n    name=\"Plasma Grenade\", url=\"https://steamusercontent-a.akamaihd.net/ugc/29932428531830446/226AD4DF47B548A21EC2DB4E10DAF5DB4FAA2C14/\", color=\"#ffffff\", stacks=false\r\n}\r\n\r\n\r\nfunction onCollisionEnter(col)\r\n    config.count = math.max(1, self.getQuantity())\r\n    if ((col.collision_object.getVar(\"TRH_Class\") or \"\") == \"mini\") then\r\n        if (col.collision_object.call(\"addMarker\", config)) then end\r\n    end\r\nend",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }

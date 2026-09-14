@@ -1,0 +1,51 @@
+{
+      "GUID": "ca7a8f",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 2.67218781,
+        "posY": 1.43051147E-06,
+        "posZ": -0.659999847,
+        "rotX": -1.82989734E-05,
+        "rotY": 180.0,
+        "rotZ": 1.73383942E-05,
+        "scaleX": 0.278148234,
+        "scaleY": 1.0,
+        "scaleZ": 0.278148234
+      },
+      "Nickname": "Active Camouflage",
+      "Description": "Points: 3\n\nWhen this Item is used, enemy Models may not draw LOS to the camouflaged Model. The effects last until the model is killed, takes a Sprint Action, a Shoot Action, or an Assault Action.\n\nOne Use",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Tags": [
+        "Item Tokens"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/29943415586580438/FE42FD5BD2335F842635B59CE7BC59AA143E5D02/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/29943415586580438/FE42FD5BD2335F842635B59CE7BC59AA143E5D02/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "TRH_Class = \"token\"\r\n\r\nlocal config = {\r\n    --name: must be unique to your mod.\r\n    --url: url of the asset used on the marker. Consider the design of the image and use this one as an example (white with a black outline seems to work best for contrast's sake)\r\n    --color: valid hex color of the marker\r\n    --stacks: true or false - can the mini receive this marker more than once.\r\n    name=\"Plasma Grenade\", url=\"https://steamusercontent-a.akamaihd.net/ugc/29932428531830446/226AD4DF47B548A21EC2DB4E10DAF5DB4FAA2C14/\", color=\"#ffffff\", stacks=false\r\n}\r\n\r\n\r\nfunction onCollisionEnter(col)\r\n    config.count = math.max(1, self.getQuantity())\r\n    if ((col.collision_object.getVar(\"TRH_Class\") or \"\") == \"mini\") then\r\n        if (col.collision_object.call(\"addMarker\", config)) then end\r\n    end\r\nend",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }

@@ -1,0 +1,61 @@
+{
+          "GUID": "a6a258",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -21.8823929,
+            "posY": 3.45833087,
+            "posZ": -6.91694164,
+            "rotX": -0.000249821256,
+            "rotY": 179.965851,
+            "rotZ": -0.0007672958,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Supply Drop",
+          "Description": "Points: 2\n\nAt the start of each round, immediately after rolling Command Dice is completed, you may spend a Special Order result to take one facedown item token from the supply pile and place it in any cube which contains no models. \r\n\r\nDo not look at the item when placing it.  If the location contains a building, it must be placed on the highest level of that stack.\r\n\r\nYou may spend any number of Special Order results in this way.  Choose a different cube for each item placed. ",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Spartan"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 51100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "511": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18247287118185366913/58612F53195D9D289C31411FAF359DE54C1B39FF/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/5161025536425316/8C0199A9C7C7B2B5DB9F3E78F841874662BE51FC/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

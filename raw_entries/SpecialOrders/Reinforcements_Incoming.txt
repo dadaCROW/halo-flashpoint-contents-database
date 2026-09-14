@@ -1,0 +1,61 @@
+{
+          "GUID": "7a1242",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -25.8370514,
+            "posY": 3.4582572,
+            "posZ": -2.06849074,
+            "rotX": -0.000250187673,
+            "rotY": 179.965927,
+            "rotZ": -0.00076719455,
+            "scaleX": 0.81,
+            "scaleY": 1.0,
+            "scaleZ": 0.75
+          },
+          "Nickname": "Reinforcements Incoming",
+          "Description": "Points: 8\n\nAfter an activation by either player, the Special Order command die result may be spent to remove the activation token from a friendly Sangheili Mercenary that is off the board (due to being killed but not yet respawned). This means the controlling player can and must take a turn to activate the model before the end of the current round.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Merc"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 30500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "305": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/5161025536426043/E53BCFFA504BC17F824DFFA63DC840DD6C1A6D14/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/5161025536426175/D209672703A3C216DBBA05BC9928518EF32C70BB/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

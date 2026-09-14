@@ -1,0 +1,61 @@
+{
+          "GUID": "f5ec88",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 19.7809963,
+            "posY": 7.307528,
+            "posZ": -29.1106834,
+            "rotX": 0.8833397,
+            "rotY": 353.36554,
+            "rotZ": 2.542454,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Plasma Launcher",
+          "Description": "Points: 10\n\nRange: R5   AP: 1\nFrag (4), Grenade, Lethal (1), Sticky",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 42800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "428": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18214108416590402549/24B3512C1C10F971F100DB90AA5602E4F095DC7F/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/18214108416590402549/24B3512C1C10F971F100DB90AA5602E4F095DC7F/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

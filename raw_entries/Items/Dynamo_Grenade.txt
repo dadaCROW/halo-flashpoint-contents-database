@@ -1,0 +1,51 @@
+{
+      "GUID": "fc8953",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 2.67218781,
+        "posY": 1.43051147E-06,
+        "posZ": -1.31999969,
+        "rotX": 0.000278875785,
+        "rotY": 179.999985,
+        "rotZ": -0.0005573871,
+        "scaleX": 0.2777402,
+        "scaleY": 1.0,
+        "scaleZ": 0.2777402
+      },
+      "Nickname": "Dynamo Grenade",
+      "Description": "Points: 5\n\nAs a Short Action, the Unit may use the following weapon:\n\nRange: R4   AP: -\nEMP, Grenade, Implosion (3)\n\nOne Use",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Tags": [
+        "Item Tokens"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/14020022352994046720/BFA693723BE7043C46BD6A7F25C27D2F6A4C42A3/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/14020022352994046720/BFA693723BE7043C46BD6A7F25C27D2F6A4C42A3/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "TRH_Class = \"token\"\r\n\r\nlocal config = {\r\n    --name: must be unique to your mod.\r\n    --url: url of the asset used on the marker. Consider the design of the image and use this one as an example (white with a black outline seems to work best for contrast's sake)\r\n    --color: valid hex color of the marker\r\n    --stacks: true or false - can the mini receive this marker more than once.\r\n    name=\"Plasma Grenade\", url=\"https://steamusercontent-a.akamaihd.net/ugc/29932428531830446/226AD4DF47B548A21EC2DB4E10DAF5DB4FAA2C14/\", color=\"#ffffff\", stacks=false\r\n}\r\n\r\n\r\nfunction onCollisionEnter(col)\r\n    config.count = math.max(1, self.getQuantity())\r\n    if ((col.collision_object.getVar(\"TRH_Class\") or \"\") == \"mini\") then\r\n        if (col.collision_object.call(\"addMarker\", config)) then end\r\n    end\r\nend",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }

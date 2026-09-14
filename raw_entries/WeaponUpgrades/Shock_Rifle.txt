@@ -1,0 +1,61 @@
+{
+          "GUID": "0ec9e3",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 19.9882,
+            "posY": 7.229077,
+            "posZ": -29.5245628,
+            "rotX": 0.06523325,
+            "rotY": 358.568726,
+            "rotZ": 1.60960031,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Shock Rifle",
+          "Description": "Points: 10\n\nRange: R6   AP: 1\nESD (2), Long, Optics, Suppression",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 45200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "452": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14913981845259886660/97500BD4840991F9A1C4DA499A43920536A230A3/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14913981845259886660/97500BD4840991F9A1C4DA499A43920536A230A3/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

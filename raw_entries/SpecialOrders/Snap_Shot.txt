@@ -1,0 +1,61 @@
+{
+          "GUID": "b9b963",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -17.92773,
+            "posY": 3.45837331,
+            "posZ": -4.49271631,
+            "rotX": -0.0002493321,
+            "rotY": 180.037537,
+            "rotZ": -0.0007674395,
+            "scaleX": 0.81,
+            "scaleY": 1.0,
+            "scaleZ": 0.75
+          },
+          "Nickname": "Snap Shot",
+          "Description": "Points: 5\n\nWhen: When one of your opponent’s models moves into a cube which contains one of your models using an Advance or Sprint action which would trigger a free Assault action. Your opponent must specify which of your models is being attacked, if there is more than one in the cube, before this Special Order use is declared. Before the free Assault action is performed, declare the use of this Special Order and discard the Command Die showing that result. May not be used if there is already another enemy model in the cube with your model or if your model is Pinned.\n\nWhat: The model being assaulted may make a free Shoot action against the attacker (short action only). Use one of the model’s equipped ranged weapons, including all the keywords for that weapon, but do not apply the following Shoot action modifiers: Clear shot, High Ground, Friendly Fire. Apply damage to the enemy model as normal. If the Shoot attack causes the enemy model to be moved out of the cube (e.g. Knockback) or Pinned, the opponent’s free Assault action does not take place.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Spartan"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 32000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "320": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/5161025536425191/EC2B2E49DE08BCC3BFFED0D3023F0F228FB5DEF7/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/5161025536425316/8C0199A9C7C7B2B5DB9F3E78F841874662BE51FC/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

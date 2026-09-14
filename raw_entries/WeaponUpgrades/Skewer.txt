@@ -1,0 +1,61 @@
+{
+          "GUID": "4901b6",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 21.6517658,
+            "posY": 9.276002,
+            "posZ": -29.8682423,
+            "rotX": 352.268982,
+            "rotY": 348.742462,
+            "rotZ": 333.428436,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Skewer",
+          "Description": "Points: 12\n\nRange: R5   AP: 3\nKnockback, Lethal (1), Long, Optics",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 48300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "483": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10827128367220557245/9609CF29B55C771E8D5BBF050E00DCBA7458AF3F/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10827128367220557245/9609CF29B55C771E8D5BBF050E00DCBA7458AF3F/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,62 @@
+{
+          "GUID": "9b6add",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -36.8590927,
+            "posY": 1.09372807,
+            "posZ": -19.0328426,
+            "rotX": -0.003145352,
+            "rotY": 180.0,
+            "rotZ": 359.74823,
+            "scaleX": 0.81,
+            "scaleY": 1.0,
+            "scaleZ": 0.75
+          },
+          "Nickname": "Lone Wolf",
+          "Description": "Points: 10\n\nYou may use this special order only \nif a friendly [b]Spartan B312 - Noble Six[/b] is 5 or more cubes away from any friendly [b]Spartans[/b]. Spend a special order result to allow a friendly [b]Spartan B312 - Noble Six[/b] to make an additional short or long action this activation, this may allow them to repeat any action once.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Banished",
+            "Special Order Merc"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 52100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "521": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14399771929881199462/441286FBE23FF75305075A4C0017C64B021377C9/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126415835/8C297F6B1221BFC3B18C0238A545AFBEEE81BCD6/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,50 @@
+{
+      
+      "GUID": "ae6a0e",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "scaleX": 0.275,
+        "scaleY": 1.0,
+        "scaleZ": 0.275
+      },
+      "Nickname": "Spike Grenade (Equipment)",
+      "Description": "",
+      "Grid": false,
+      "Snap": true,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/16391931023604046429/01A95BA89A17FC7B7F0FB4F1162D7409A359513D/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/16391931023604046429/01A95BA89A17FC7B7F0FB4F1162D7409A359513D/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedDecals": [
+        {
+          "Transform": {
+            "posX": -0.0358997658,
+            "posY": 0.110000134,
+            "posZ": -0.01961448,
+            "rotX": 90.0,
+            "rotY": 224.85614,
+            "rotZ": 0.0,
+            "scaleX": 2.48368549,
+            "scaleY": 2.48368549,
+            "scaleZ": 0.683013558
+          },
+          "CustomDecal": {
+            "Name": "Big Red X",
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/12404797106537295212/F03ECC840A85DDD7197B67B58D5A2A552B8036A6/",
+            "Size": 1.0
+          },
+          "OwnerSteamID": 76561198059855257
+        }
+      ]
+    }

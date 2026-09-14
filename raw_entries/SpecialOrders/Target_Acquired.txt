@@ -1,0 +1,61 @@
+{
+          "GUID": "bb5079",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 3.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Target Acquired",
+          "Description": "Points: 6\n\nSpend a special order result after completing a shoot action made by a friendly Support model.\n\nUntil the end of the Round, any shoot actions made by a Support model targeting that same enemy model after this action benefits from a +1 dice modifier (this is not cumulative, this may not be used on Explosive, Incendiary, or Grenade weapons).",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order UNSC"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 90000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "900": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10802209794325169335/B5FC5C63FE9F644C8913220606D7D178C97DFB56/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10802209794325169335/B5FC5C63FE9F644C8913220606D7D178C97DFB56/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

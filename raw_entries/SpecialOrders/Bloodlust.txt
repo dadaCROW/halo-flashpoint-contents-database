@@ -1,0 +1,61 @@
+{
+          "GUID": "c474f4",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 3.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Bloodlust",
+          "Description": "Points: 4\n\nSpend a Special Order Command Dice result to activate this order. For the rest of this round, any Berserkers that are wounded gain the keyword Fearless until the next game Round. This effect is lost if that model becomes fully healed during it's activation.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Banished"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 90300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "903": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17541023645896374256/910A71DBA349225A63A077E8E58933493833F5AF/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17541023645896374256/910A71DBA349225A63A077E8E58933493833F5AF/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

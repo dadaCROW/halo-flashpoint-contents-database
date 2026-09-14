@@ -1,0 +1,50 @@
+{
+      
+      "GUID": "07574c",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "scaleX": 0.275,
+        "scaleY": 1.0,
+        "scaleZ": 0.275
+      },
+      "Nickname": "Plasma Grenade (Equipment)",
+      "Description": "",
+      "Grid": false,
+      "Snap": true,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/17947127244023959700/884A0676E06E564A2ECEC3049B1233847A3C0683/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/17947127244023959700/884A0676E06E564A2ECEC3049B1233847A3C0683/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedDecals": [
+        {
+          "Transform": {
+            "posX": -0.0161326956,
+            "posY": 0.110000372,
+            "posZ": -0.01617433,
+            "rotX": 90.0,
+            "rotY": 224.85614,
+            "rotZ": 0.0,
+            "scaleX": 2.483686,
+            "scaleY": 2.48368573,
+            "scaleZ": 0.6830137
+          },
+          "CustomDecal": {
+            "Name": "Big Red X",
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/12404797106537295212/F03ECC840A85DDD7197B67B58D5A2A552B8036A6/",
+            "Size": 1.0
+          },
+          "OwnerSteamID": 76561198059855257
+        }
+      ]
+    }

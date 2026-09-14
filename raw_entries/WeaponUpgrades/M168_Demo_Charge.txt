@@ -1,0 +1,61 @@
+{
+          "GUID": "c21731",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 21.1018028,
+            "posY": 8.688434,
+            "posZ": -29.5261078,
+            "rotX": 359.1645,
+            "rotY": 0.426801682,
+            "rotZ": 156.409836,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "M168 Demo Charge",
+          "Description": "Points: 8\r\n\nRange: CC   AP: 2 \n[FF4100]Blast[-], EMP, [D70000]Lethal[-] (1), \n\nOne-Use",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 50100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "501": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12088570161394287201/88F949AFCEBE8FE8F8CDC5F36EEAB227B4DADCBA/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/12088570161394287201/88F949AFCEBE8FE8F8CDC5F36EEAB227B4DADCBA/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

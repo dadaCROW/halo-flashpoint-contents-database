@@ -1,0 +1,61 @@
+{
+          "GUID": "08c5c0",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 21.5142746,
+            "posY": 8.762615,
+            "posZ": -29.4729137,
+            "rotX": 352.667175,
+            "rotY": 346.02594,
+            "rotZ": 336.4613,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "M6G Magnum",
+          "Description": "Points: 5\n\nRange: R3   AP: -\nOptics, Rapid Fire",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 44200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "442": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13185321973624150726/AD6C1E221F73CE0C85DB5C59BA1BBE7E5702DEC2/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13185321973624150726/AD6C1E221F73CE0C85DB5C59BA1BBE7E5702DEC2/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,61 @@
+{
+          "GUID": "b83da6",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 3.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Hand of Atriox",
+          "Description": "Points: 4\n\nSpend a special order result at the start of this model's activation to 'mark' an enemy model on the board. Until the end of this model's activation, each time this model makes a fight or ranged test against that model, you may re-roll up to 2 dice. However, if that enemy model is alive on the board at the end of this model's activation, you lose 1 VP (to a minimum of 0). This order may only be used by a friendly Jega, Hyperius or Tovarus.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Banished"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 90400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "904": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14323675680560796717/B54E50860D4883BF980DC28B7E42BA18ADB4BCB4/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14323675680560796717/B54E50860D4883BF980DC28B7E42BA18ADB4BCB4/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

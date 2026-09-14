@@ -1,0 +1,50 @@
+{
+
+      "GUID": "f0b869",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "scaleX": 0.275,
+        "scaleY": 1.0,
+        "scaleZ": 0.275
+      },
+      "Nickname": "Fragmentation Grenade (Equipment)",
+      "Description": "",
+      "Grid": false,
+      "Snap": true,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/13086394736049256601/57F895EEE2CEABDEAF19947B914ABA3C58416261/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/13086394736049256601/57F895EEE2CEABDEAF19947B914ABA3C58416261/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedDecals": [
+        {
+          "Transform": {
+            "posX": -0.0364962555,
+            "posY": 0.110000134,
+            "posZ": -0.0007005157,
+            "rotX": 90.0,
+            "rotY": 224.85614,
+            "rotZ": 0.0,
+            "scaleX": 2.483686,
+            "scaleY": 2.483686,
+            "scaleZ": 0.6830138
+          },
+          "CustomDecal": {
+            "Name": "Big Red X",
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/12404797106537295212/F03ECC840A85DDD7197B67B58D5A2A552B8036A6/",
+            "Size": 1.0
+          },
+          "OwnerSteamID": 76561198059855257
+        }
+      ]
+    }

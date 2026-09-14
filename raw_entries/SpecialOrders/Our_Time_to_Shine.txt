@@ -1,0 +1,61 @@
+{
+          "GUID": "54d4f6",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 3.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Our Time to Shine",
+          "Description": "Points: 2\n\nYou may spend a Special Order result to temporarily lose the Support Keyword on the active model for this activation.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order UNSC"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 90100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "901": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15316687781521941500/1B97EEAA7978F547FF3269DADDA9B4FC8D5BDB0E/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15316687781521941500/1B97EEAA7978F547FF3269DADDA9B4FC8D5BDB0E/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,62 @@
+{
+          "GUID": "1cbd93",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -36.8856163,
+            "posY": 1.43380558,
+            "posZ": -19.03229,
+            "rotX": 359.991119,
+            "rotY": 180.047852,
+            "rotZ": 12.8981915,
+            "scaleX": 0.81,
+            "scaleY": 1.0,
+            "scaleZ": 0.75
+          },
+          "Nickname": "Holograms",
+          "Description": "Points: 2\n\nCan only be used at the start of a game. Spend as many Special Order results as you wish to redeploy a Noble Team Spartan per dice. All normal Deployment rules apply, simply set those models up again, before any scout moves are made.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Banished",
+            "Special Order Merc"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 51800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "518": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16629419927630804881/23873B3C11154DC86A3A11364F4F2B5C306C8CDC/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126415835/8C297F6B1221BFC3B18C0238A545AFBEEE81BCD6/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

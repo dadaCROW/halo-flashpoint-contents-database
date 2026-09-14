@@ -1,0 +1,61 @@
+{
+          "GUID": "979f0b",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 21.4758835,
+            "posY": 8.361986,
+            "posZ": -29.8940983,
+            "rotX": 356.246857,
+            "rotY": 353.480316,
+            "rotZ": 336.424957,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "M90 Shotgun",
+          "Description": "Points: 7\r\n\nRange: 3   AP: 1 \nESD (1), [C6B59D]Knockback[-], [D70000]Lethal[-] (1)",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 50000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "500": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13291316840143698264/76EE901C80EEEF90FCF12895B78090FDA912C2FE/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13291316840143698264/76EE901C80EEEF90FCF12895B78090FDA912C2FE/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

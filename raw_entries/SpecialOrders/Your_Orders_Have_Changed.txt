@@ -1,0 +1,61 @@
+{
+          "GUID": "b56339",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -25.8370514,
+            "posY": 3.45826769,
+            "posZ": -4.49271631,
+            "rotX": -0.0002499995,
+            "rotY": 179.965836,
+            "rotZ": -0.0007672536,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Your Orders Have Changed",
+          "Description": "Points: 6\r\n\r\n(Fireteam must include Veronica Dare)\r\n\r\nYou may only use this special order once per round. It does not require Veronica Dare to be present on the board at the time of use.\r\n\r\nAt the start of the round, immediately after Command dice have been rolled and any rerolls performed, spend a Special order result to change 2 of your remaining command dice to results of your choice.\r\n",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Spartan"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 51000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "510": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13193403818813879464/3E0469E398375A69A1C1F860C13FCCCE0D40547C/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/5161025536425316/8C0199A9C7C7B2B5DB9F3E78F841874662BE51FC/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

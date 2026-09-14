@@ -1,0 +1,61 @@
+{
+          "GUID": "aa635c",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 3.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 0.7589369,
+            "scaleY": 1.0,
+            "scaleZ": 0.7589369
+          },
+          "Nickname": "Unggoy Plasma Grenade Assault!",
+          "Description": "Points: 5\n\nSpend a Command Special Order for any Unggoy to use the following profile as a CC attack that hits on a 4+:\nCC/AP2/Smash/Lethal1 At the end of the assault action, all models in the cube are both Pinned and scattered from the cube. The model that used this special order also suffers 2 wounds - Armour and Shields do not prevent this damage.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Banished"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 90200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "902": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13805562355420669071/F88CF23A5CE3987B354B33DE93160D6CC4EDDB85/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13805562355420669071/F88CF23A5CE3987B354B33DE93160D6CC4EDDB85/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,62 @@
+{
+          "GUID": "273a27",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -25.8370514,
+            "posY": 3.45828867,
+            "posZ": -9.341167,
+            "rotX": -0.000249106233,
+            "rotY": 180.034164,
+            "rotZ": -0.0007675699,
+            "scaleX": 0.81,
+            "scaleY": 1.0,
+            "scaleZ": 0.75
+          },
+          "Nickname": "Return to Sender",
+          "Description": "Points: 3\n\nWhen a grenade lands in the same cube as a friendly Spartan, you may spend a Special Order result to allow that Spartan to attempt to catch it and throw it. It doesn’t matter if the grenade was thrown accurately or scattered into the cube. May only be used with weapons/items called a ___ Grenade (e.g. Plasma Grenade), not any kind of grenade launcher or other weapon which shoots grenades. You must declare the use of the Special Order before your opponent resolves the effect of the grenade (rolling Frag etc.).\n\nFirst, roll a 3 dice Survive test (2) to catch the grenade. If you roll 1 or 0 successes, the catch failed and the grenade is resolved in the cube as normal. If you roll the 2 or more successes required, the Spartan may then throw the grenade as if making a shoot action. You resolve the grenade effects wherever it lands (it is your grenade now).",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Merc",
+            "Special Order UNSC"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 38700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "387": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126419924/61E91A4E1BB0EFCB63ECBB3169844A8EE99F75E8/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126421209/8C0199A9C7C7B2B5DB9F3E78F841874662BE51FC/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

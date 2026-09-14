@@ -1,0 +1,62 @@
+{
+          "GUID": "6ddc82",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -25.8370514,
+            "posY": 3.458278,
+            "posZ": -6.91694164,
+            "rotX": -0.000249406556,
+            "rotY": 180.034164,
+            "rotZ": -0.0007673159,
+            "scaleX": 0.81,
+            "scaleY": 1.0,
+            "scaleZ": 0.75
+          },
+          "Nickname": "Rampage",
+          "Description": "Points: 3\r\n\r\nAn injured animal is often the most dangerous. Injured Jiralhanae will enter a berserk rampage when close to death in a last attempt to make one more kill.\r\n\r\nIf the active Jiralhanae unit has 2 or more wounds already, they can spend a Special Order result to add 1 to their Speed stat for a Sprint action made in their activation.\r\n\r\nThis movement must be used to enter a cube with an enemy model. The Jiralhanae player may reroll 1 die during the resulting Fight test.",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Merc",
+            "Special Order UNSC"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 39900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "399": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13636571348404697306/844A6D445F912837D0877319890563B1B5F847F1/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126415835/8C297F6B1221BFC3B18C0238A545AFBEEE81BCD6/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,62 @@
+{
+          "GUID": "ce9f51",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -17.92773,
+            "posY": 3.45839477,
+            "posZ": -9.341167,
+            "rotX": -0.000249376579,
+            "rotY": 180.0368,
+            "rotZ": -0.000767462247,
+            "scaleX": 0.81,
+            "scaleY": 1.0,
+            "scaleZ": 0.75
+          },
+          "Nickname": "Defiance",
+          "Description": "Points: 5\n\nIf a friendly model begins their activation pinned you ay spend a special order result to perform a free Stand Up action first, then continue with the model's normal 2 short / 1 long action.\r\n\r\n[i]Atriox personally may use special orders available to Jiralhanae and the Banished[/i]\r\n\r\n[i]Atriox may be taken in place of 2 other Banished when drafting your Banished fireteam, if you are using the drafting rules from the Rulebook.[/i]",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Special Order Merc",
+            "Special Order UNSC"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 40000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "400": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9517564762822490818/666F11A75D18FDA280EEC3C521784160B73B79C8/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10821992286100309793/6EBF1E5929586ECDF6FECDD82825E146DA68BFF8/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

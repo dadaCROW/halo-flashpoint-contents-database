@@ -1,0 +1,62 @@
+{
+          "GUID": "634155",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 29.0841255,
+            "posY": 2.68448067,
+            "posZ": -29.324379,
+            "rotX": 0.09447141,
+            "rotY": 180.052826,
+            "rotZ": 0.123109385,
+            "scaleX": 1.12208474,
+            "scaleY": 1.0,
+            "scaleZ": 1.12208474
+          },
+          "Nickname": "Spartan MK VII\n(MA40 Assault Rifle)",
+          "Description": "Points: 44\nFaction: [b][1C4811]UNSC[-][/b]\r\n\r\n[61BCFF]Energy Shield[-] (2), [0016FF]Tactician[-] (1)\r\n\r\n[u]I RA I[/u] [u]FI[/u] [u]I SV I[/u]        [ [00FF21]HP[-] ]\r\n  4+   4+   5+             4\r\n\r\n>> [u]2 - 3[/u]   [ 2 ]\r\n\r\nWeapon Type: Close Combat\r\nWeapon: Spartan Fists\r\nRange: CC I AP: -\r\n\r\nWeapon Type: Ranged\r\nWeapon: MA40 Assault Rifle\r\nRange: R4 I AP: - [[7B7B7B]Rapid Fire[-], [7B7B7B]Weight of Fire[-] (2)]",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Mk VII Recon B",
+            "Model Cards"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 35200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "352": {
+              "FaceURL": "https://i.imgur.com/gOdKhU1.png",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767125955113/4893BAAC49E3A5B33E4713131957675CFAEF3E8E/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "local BUTTON_WIDTH=1600\r\nlocal BUTTON_HEIGHT=500\r\nlocal BUTTON_FONT=250\r\nlocal DATABASE_GUID=\"7de691\"\r\n\r\nfunction onLoad()\r\n    Wait.frames(createButtonForSelf,2)\r\nend\r\n\r\nfunction getDatabase()\r\n    local obj=getObjectFromGUID(DATABASE_GUID)\r\n    if not obj then\r\n        broadcastToAll(\"ERROR: Database object not found!\",{1,0,0})\r\n        return nil\r\n    end\r\n\r\n    local db=obj.call(\"getDatabase\")\r\n    if not db then\r\n        broadcastToAll(\"ERROR: getDatabase() failed!\",{1,0,0})\r\n    end\r\n\r\n    return db\r\nend\r\n\r\nfunction wrapButtonLabel(nickname,maxWordsPerLine)\r\n    maxWordsPerLine=maxWordsPerLine or 2\r\n    local words={}\r\n\r\n    for word in string.gmatch(nickname,\"%S+\") do\r\n        table.insert(words,word)\r\n    end\r\n\r\n    local lines={}\r\n    for i=1,#words,maxWordsPerLine do\r\n        local lineWords={}\r\n        for j=i,math.min(i+maxWordsPerLine-1,#words) do\r\n            table.insert(lineWords,words[j])\r\n        end\r\n        table.insert(lines,table.concat(lineWords,\" \"))\r\n    end\r\n\r\n    return table.concat(lines,\"\\n\")\r\nend\r\n\r\nfunction createButtonForSelf()\r\n    self.clearButtons()\r\n\r\n    local db=getDatabase()\r\n    if not db then return end\r\n\r\n    local myName=self.getName()\r\n    local foundCategory=nil\r\n    local foundKey=nil\r\n\r\n    for categoryName,categoryTable in pairs(db) do\r\n        if type(categoryTable)==\"table\" then\r\n            for key,json in pairs(categoryTable) do\r\n                local nick=extractNickname(json)\r\n                if normalizeName(nick)==normalizeName(myName) then\r\n                    foundCategory=categoryName\r\n                    foundKey=key\r\n                    break\r\n                end\r\n            end\r\n        end\r\n        if foundCategory then break end\r\n    end\r\n\r\n    if foundCategory then\r\n        self.createButton({\r\n            label=\"Spawn Model\",\r\n            click_function=\"spawnSelfFromDB\",\r\n            function_owner=self,\r\n            position={-0.6,0.3,0.3},\r\n            width=BUTTON_WIDTH,\r\n            height=BUTTON_HEIGHT,\r\n            font_size=BUTTON_FONT,\r\n            scale={0.2,0.2,0.2},\r\n            tooltip=\"Spawn: \"..myName\r\n        })\r\n\r\n        self.setVar(\"spawnSelfFromDB\",function()\r\n            spawnFromDB(foundCategory,foundKey)\r\n        end)\r\n    else\r\n        self.createButton({\r\n            label=\"Not Found\",\r\n            click_function=\"none\",\r\n            function_owner=self,\r\n            position={-0.6,0.3,0.3},\r\n            width=BUTTON_WIDTH,\r\n            height=BUTTON_HEIGHT,\r\n            font_size=BUTTON_FONT,\r\n            scale={0.2,0.2,0.2},\r\n            tooltip=\"No matching entry in Database\"\r\n        })\r\n    end\r\nend\r\n\r\nfunction extractNickname(json)\r\n    local nick=string.match(json,'\"Nickname\"%s*:%s*\"((.-))\"')\r\n    if not nick then return nil end\r\n\r\n    nick=string.gsub(nick,\"\\\\n\",\" \")\r\n    return nick\r\nend\r\n\r\nfunction spawnFromDB(category,key)\r\n    local db=getDatabase()\r\n    if not db then return end\r\n\r\n    local json=db[category][key]\r\n\r\n    local pos=self.getPosition()\r\n    pos.x=pos.x+1.5\r\n    pos.y=pos.y+1\r\n    pos.z=pos.z+0.1\r\n\r\n    spawnObjectJSON({\r\n        json=json,\r\n        position=pos,\r\n        rotation={0,0,0}\r\n    })\r\n\r\n    -- Lock further spawning forever until reload\r\n    hasSpawned=true\r\n\r\n    -- Remove buttons\r\n    self.clearButtons()\r\n\r\n    -- Disable the function entirely\r\n    spawnFromDB=function()\r\n        return\r\n    end\r\nend\r\n\r\nfunction normalizeName(str)\r\n    if not str then return \"\" end\r\n\r\n    str=string.gsub(str,\"[\\r\\n]+\",\" \")\r\n    str=string.gsub(str,\"%s+\",\" \")\r\n    str=string.gsub(str,\"^%s*(.-)%s*$\",\"%1\")\r\n\r\n    return str\r\nend",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

@@ -1,0 +1,61 @@
+{
+          "GUID": "4351dc",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 20.8376751,
+            "posY": 8.743272,
+            "posZ": -29.5914841,
+            "rotX": 1.163116,
+            "rotY": 4.991089,
+            "rotZ": 156.312256,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "Disruptor",
+          "Description": "Points: 3\n\nRange: R4   AP: 1\nESD (1), Rapid Fire",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 48800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "488": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18145954152686795024/B4BBC4845374AFBB74EC8E35FE86FA56914BB232/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/18145954152686795024/B4BBC4845374AFBB74EC8E35FE86FA56914BB232/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }

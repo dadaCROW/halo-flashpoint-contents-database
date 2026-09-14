@@ -1,0 +1,61 @@
+{
+          "GUID": "9d6621",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 20.9955425,
+            "posY": 8.606928,
+            "posZ": -29.84929,
+            "rotX": 3.247003,
+            "rotY": 9.545003,
+            "rotZ": 336.352966,
+            "scaleX": 0.783099234,
+            "scaleY": 1.0,
+            "scaleZ": 0.783099234
+          },
+          "Nickname": "S7 Sniper Rifle",
+          "Description": "Points: 9\n\nRange: R7   AP: 1 \nESD (1), Lethal (1), Sniper Scope",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Tags": [
+            "Weapon Card"
+          ],
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 43900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "439": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17457324846331316295/8E8D0F52728249148A343775C186FFAB94A79192/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17457324846331316295/8E8D0F52728249148A343775C186FFAB94A79192/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
