@@ -1,1 +1,1069 @@
-{"entries": [{"category": "Items_Equipment", "key": "Spike_Grenade_Equipment", "file": "Items_Equipment/Spike_Grenade_Equipment.txt"}, {"category": "Items_Equipment", "key": "Dynamo_Grenade_Equipment", "file": "Items_Equipment/Dynamo_Grenade_Equipment.txt"}, {"category": "Items_Equipment", "key": "Plasma_Grenade_Equipment", "file": "Items_Equipment/Plasma_Grenade_Equipment.txt"}, {"category": "Items_Equipment", "key": "Fragmentation_Grenade_Equipment", "file": "Items_Equipment/Fragmentation_Grenade_Equipment.txt"}, {"category": "Items", "key": "Overshield", "file": "Items/Overshield.txt"}, {"category": "Items", "key": "Threat_Sensor", "file": "Items/Threat_Sensor.txt"}, {"category": "Items", "key": "Health_Pack", "file": "Items/Health_Pack.txt"}, {"category": "Items", "key": "Explosive_Ammo", "file": "Items/Explosive_Ammo.txt"}, {"category": "Items", "key": "Dynamo_Grenade", "file": "Items/Dynamo_Grenade.txt"}, {"category": "Items", "key": "Thruster_Pack", "file": "Items/Thruster_Pack.txt"}, {"category": "Items", "key": "Shroud_Screen", "file": "Items/Shroud_Screen.txt"}, {"category": "Items", "key": "Plasma_Grenade", "file": "Items/Plasma_Grenade.txt"}, {"category": "Items", "key": "Repair_Field", "file": "Items/Repair_Field.txt"}, {"category": "Items", "key": "Drop_Wall", "file": "Items/Drop_Wall.txt"}, {"category": "Items", "key": "Quantum_Translocator", "file": "Items/Quantum_Translocator.txt"}, {"category": "Items", "key": "Active_Camouflage", "file": "Items/Active_Camouflage.txt"}, {"category": "Items", "key": "Grappleshot", "file": "Items/Grappleshot.txt"}, {"category": "Items", "key": "M168_Demo_Charge", "file": "Items/M168_Demo_Charge.txt"}, {"category": "Items", "key": "Frag_Grenade", "file": "Items/Frag_Grenade.txt"}, {"category": "Items", "key": "Spike_Grenade", "file": "Items/Spike_Grenade.txt"}, {"category": "Items", "key": "Hardlight_Shield", "file": "Items/Hardlight_Shield.txt"}, {"category": "CommandUpgrades", "key": "Two_Extra_Command_Die", "file": "CommandUpgrades/Two_Extra_Command_Die.txt"}, {"category": "CommandUpgrades", "key": "Extra_D8_Die", "file": "CommandUpgrades/Extra_D8_Die.txt"}, {"category": "CommandUpgrades", "key": "Extra_Recon_Roll", "file": "CommandUpgrades/Extra_Recon_Roll.txt"}, {"category": "CommandUpgrades", "key": "Extra_Command_Die_Single_Use", "file": "CommandUpgrades/Extra_Command_Die_Single_Use.txt"}, {"category": "CommandUpgrades", "key": "Advanced_Reconnaissance", "file": "CommandUpgrades/Advanced_Reconnaissance.txt"}, {"category": "CommandUpgrades", "key": "Extra_Command_Die_Unlimited", "file": "CommandUpgrades/Extra_Command_Die_Unlimited.txt"}, {"category": "Models", "key": "MKVII_PulseCarbine", "file": "Models/MKVII_PulseCarbine.txt"}, {"category": "Models", "key": "HAZOP_M45Shotgun", "file": "Models/HAZOP_M45Shotgun.txt"}, {"category": "Models", "key": "Jiralhanae_Captain_MLRS2_Hydra", "file": "Models/Jiralhanae_Captain_MLRS2_Hydra.txt"}, {"category": "Models", "key": "Jiralhanae_Berserker_Spike_Grenade", "file": "Models/Jiralhanae_Berserker_Spike_Grenade.txt"}, {"category": "Models", "key": "ODST_Firebreak_M90_Shotgun", "file": "Models/ODST_Firebreak_M90_Shotgun.txt"}, {"category": "Models", "key": "SpartanB312_Noble_Six", "file": "Models/SpartanB312_Noble_Six.txt"}, {"category": "Models", "key": "MKVII_MA40AssaultRifle", "file": "Models/MKVII_MA40AssaultRifle.txt"}, {"category": "Models", "key": "Zvezda_VK78Commando", "file": "Models/Zvezda_VK78Commando.txt"}, {"category": "Models", "key": "Brawler_CQS48Bulldog", "file": "Models/Brawler_CQS48Bulldog.txt"}, {"category": "Models", "key": "ODST_Captain", "file": "Models/ODST_Captain.txt"}, {"category": "Models", "key": "Gungnir_M319GrenadeLauncher", "file": "Models/Gungnir_M319GrenadeLauncher.txt"}, {"category": "Models", "key": "CQB_GravityHammer", "file": "Models/CQB_GravityHammer.txt"}, {"category": "Models", "key": "Deadeye_M392DMR", "file": "Models/Deadeye_M392DMR.txt"}, {"category": "Models", "key": "Gungnir_PlasmaLauncher", "file": "Models/Gungnir_PlasmaLauncher.txt"}, {"category": "Models", "key": "JunA266_Noble_Three", "file": "Models/JunA266_Noble_Three.txt"}, {"category": "Models", "key": "Jiralhanae_Captain_Ravager", "file": "Models/Jiralhanae_Captain_Ravager.txt"}, {"category": "Models", "key": "Kat_B320_Noble_Two", "file": "Models/Kat_B320_Noble_Two.txt"}, {"category": "Models", "key": "EmileA239_Noble_Four", "file": "Models/EmileA239_Noble_Four.txt"}, {"category": "Models", "key": "Jorge052_Noble_Five", "file": "Models/Jorge052_Noble_Five.txt"}, {"category": "Models", "key": "Deadeye_StalkerRifle", "file": "Models/Deadeye_StalkerRifle.txt"}, {"category": "Models", "key": "ODST_2ndLieutenant", "file": "Models/ODST_2ndLieutenant.txt"}, {"category": "Models", "key": "Brawler_Needler", "file": "Models/Brawler_Needler.txt"}, {"category": "Models", "key": "Gunnery_Sergeant_Edward_Buck", "file": "Models/Gunnery_Sergeant_Edward_Buck.txt"}, {"category": "Models", "key": "HAZOP_SpikeRifle", "file": "Models/HAZOP_SpikeRifle.txt"}, {"category": "Models", "key": "Carter_A259_Noble_One", "file": "Models/Carter_A259_Noble_One.txt"}, {"category": "Models", "key": "Jiralhanae_Berserker_Dynamo_Grenade", "file": "Models/Jiralhanae_Berserker_Dynamo_Grenade.txt"}, {"category": "Models", "key": "ODST_Firebreak_M7057_Flamethrower", "file": "Models/ODST_Firebreak_M7057_Flamethrower.txt"}, {"category": "Models", "key": "JFO_ConcussionRifle", "file": "Models/JFO_ConcussionRifle.txt"}, {"category": "Models", "key": "Jiralhanae_Sniper_SkewerMagler", "file": "Models/Jiralhanae_Sniper_SkewerMagler.txt"}, {"category": "Models", "key": "Sangheili_MercenaryPlasmaRifle", "file": "Models/Sangheili_MercenaryPlasmaRifle.txt"}, {"category": "Models", "key": "Jiralhanae_Warrior", "file": "Models/Jiralhanae_Warrior.txt"}, {"category": "Models", "key": "Jiralhanae_Chosen_Warrior", "file": "Models/Jiralhanae_Chosen_Warrior.txt"}, {"category": "Models", "key": "ODST_Special_Purpose_Trooper_BR55_Battle_Rifle", "file": "Models/ODST_Special_Purpose_Trooper_BR55_Battle_Rifle.txt"}, {"category": "Models", "key": "Jiralhanae_Sniper_Shock_RifleDisruptor", "file": "Models/Jiralhanae_Sniper_Shock_RifleDisruptor.txt"}, {"category": "Models", "key": "Atriox_Jiralhanae_Warmaster", "file": "Models/Atriox_Jiralhanae_Warmaster.txt"}, {"category": "Models", "key": "ODST_Air_Assault_MA40_Assault_Rifle", "file": "Models/ODST_Air_Assault_MA40_Assault_Rifle.txt"}, {"category": "Models", "key": "Spartan_CQB_Energy_Sword", "file": "Models/Spartan_CQB_Energy_Sword.txt"}, {"category": "Models", "key": "JFO_TargetLocator", "file": "Models/JFO_TargetLocator.txt"}, {"category": "Models", "key": "ODST_Special_Purpose_Trooper_M392_DMR", "file": "Models/ODST_Special_Purpose_Trooper_M392_DMR.txt"}, {"category": "Models", "key": "Master_Chief", "file": "Models/Master_Chief.txt"}, {"category": "Models", "key": "ODST_Air_Assault_M7S_SMG", "file": "Models/ODST_Air_Assault_M7S_SMG.txt"}, {"category": "Models", "key": "Zvezda_Cindershot", "file": "Models/Zvezda_Cindershot.txt"}, {"category": "Models", "key": "Captain_Veronica_Dare", "file": "Models/Captain_Veronica_Dare.txt"}, {"category": "Models", "key": "Sangheili_MercenaryEnergySword", "file": "Models/Sangheili_MercenaryEnergySword.txt"}, {"category": "Models", "key": "Sangheili_MercenaryNeedler", "file": "Models/Sangheili_MercenaryNeedler.txt"}, {"category": "Models", "key": "Sangheili_MercenaryPulseCarbine", "file": "Models/Sangheili_MercenaryPulseCarbine.txt"}, {"category": "SpecialOrders", "key": "Reinforcements_Incoming", "file": "SpecialOrders/Reinforcements_Incoming.txt"}, {"category": "SpecialOrders", "key": "Holograms", "file": "SpecialOrders/Holograms.txt"}, {"category": "SpecialOrders", "key": "Your_Orders_Have_Changed", "file": "SpecialOrders/Your_Orders_Have_Changed.txt"}, {"category": "SpecialOrders", "key": "Lone_Wolf", "file": "SpecialOrders/Lone_Wolf.txt"}, {"category": "SpecialOrders", "key": "Return_to_Sender", "file": "SpecialOrders/Return_to_Sender.txt"}, {"category": "SpecialOrders", "key": "Snap_Shot", "file": "SpecialOrders/Snap_Shot.txt"}, {"category": "SpecialOrders", "key": "Rampage", "file": "SpecialOrders/Rampage.txt"}, {"category": "SpecialOrders", "key": "Defiance", "file": "SpecialOrders/Defiance.txt"}, {"category": "SpecialOrders", "key": "Hot_Drop", "file": "SpecialOrders/Hot_Drop.txt"}, {"category": "SpecialOrders", "key": "Target_Acquired", "file": "SpecialOrders/Target_Acquired.txt"}, {"category": "SpecialOrders", "key": "Supply_Drop", "file": "SpecialOrders/Supply_Drop.txt"}, {"category": "SpecialOrders", "key": "Unggoy_Plasma_Grenade_Assault", "file": "SpecialOrders/Unggoy_Plasma_Grenade_Assault.txt"}, {"category": "SpecialOrders", "key": "Pack_Brothers", "file": "SpecialOrders/Pack_Brothers.txt"}, {"category": "SpecialOrders", "key": "Alliance", "file": "SpecialOrders/Alliance.txt"}, {"category": "SpecialOrders", "key": "Finish_the_Fight", "file": "SpecialOrders/Finish_the_Fight.txt"}, {"category": "SpecialOrders", "key": "Bloodlust", "file": "SpecialOrders/Bloodlust.txt"}, {"category": "SpecialOrders", "key": "Hand_of_Atriox", "file": "SpecialOrders/Hand_of_Atriox.txt"}, {"category": "SpecialOrders", "key": "Our_Time_to_Shine", "file": "SpecialOrders/Our_Time_to_Shine.txt"}, {"category": "WeaponUpgrades", "key": "M392_DMR", "file": "WeaponUpgrades/M392_DMR.txt"}, {"category": "WeaponUpgrades", "key": "Focus_Rifle", "file": "WeaponUpgrades/Focus_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "Gravity_Hammer", "file": "WeaponUpgrades/Gravity_Hammer.txt"}, {"category": "WeaponUpgrades", "key": "Needler", "file": "WeaponUpgrades/Needler.txt"}, {"category": "WeaponUpgrades", "key": "Sentinel_Beam", "file": "WeaponUpgrades/Sentinel_Beam.txt"}, {"category": "WeaponUpgrades", "key": "CQS48_Bulldog", "file": "WeaponUpgrades/CQS48_Bulldog.txt"}, {"category": "WeaponUpgrades", "key": "M7057_Flamethrower", "file": "WeaponUpgrades/M7057_Flamethrower.txt"}, {"category": "WeaponUpgrades", "key": "M6C_SOCOM", "file": "WeaponUpgrades/M6C_SOCOM.txt"}, {"category": "WeaponUpgrades", "key": "Skewer", "file": "WeaponUpgrades/Skewer.txt"}, {"category": "WeaponUpgrades", "key": "Plasma_Rifle", "file": "WeaponUpgrades/Plasma_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "Energy_Sword", "file": "WeaponUpgrades/Energy_Sword.txt"}, {"category": "WeaponUpgrades", "key": "S7_Sniper_Rifle", "file": "WeaponUpgrades/S7_Sniper_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "Heatwave", "file": "WeaponUpgrades/Heatwave.txt"}, {"category": "WeaponUpgrades", "key": "M90_Shotgun", "file": "WeaponUpgrades/M90_Shotgun.txt"}, {"category": "WeaponUpgrades", "key": "Fuel_Rod_Gun", "file": "WeaponUpgrades/Fuel_Rod_Gun.txt"}, {"category": "WeaponUpgrades", "key": "Mauler", "file": "WeaponUpgrades/Mauler.txt"}, {"category": "WeaponUpgrades", "key": "Ravager", "file": "WeaponUpgrades/Ravager.txt"}, {"category": "WeaponUpgrades", "key": "MA40_Assault_Rifle", "file": "WeaponUpgrades/MA40_Assault_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "MLRS2_Hydra", "file": "WeaponUpgrades/MLRS2_Hydra.txt"}, {"category": "WeaponUpgrades", "key": "Concussion_Rifle", "file": "WeaponUpgrades/Concussion_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "Spike_Rifle", "file": "WeaponUpgrades/Spike_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "M7S_SMG", "file": "WeaponUpgrades/M7S_SMG.txt"}, {"category": "WeaponUpgrades", "key": "BR55_Battle_Rifle", "file": "WeaponUpgrades/BR55_Battle_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "H165_Target_Locator", "file": "WeaponUpgrades/H165_Target_Locator.txt"}, {"category": "WeaponUpgrades", "key": "M6_Spartan_Laser", "file": "WeaponUpgrades/M6_Spartan_Laser.txt"}, {"category": "WeaponUpgrades", "key": "Mangler_Ranged", "file": "WeaponUpgrades/Mangler_Ranged.txt"}, {"category": "WeaponUpgrades", "key": "M45_Shotgun", "file": "WeaponUpgrades/M45_Shotgun.txt"}, {"category": "WeaponUpgrades", "key": "Stalker_Rifle", "file": "WeaponUpgrades/Stalker_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "Energy_Dagger", "file": "WeaponUpgrades/Energy_Dagger.txt"}, {"category": "WeaponUpgrades", "key": "M319_Grenade_Launcher", "file": "WeaponUpgrades/M319_Grenade_Launcher.txt"}, {"category": "WeaponUpgrades", "key": "M6G_Magnum", "file": "WeaponUpgrades/M6G_Magnum.txt"}, {"category": "WeaponUpgrades", "key": "VK78_Commando", "file": "WeaponUpgrades/VK78_Commando.txt"}, {"category": "WeaponUpgrades", "key": "Plasma_Repeater", "file": "WeaponUpgrades/Plasma_Repeater.txt"}, {"category": "WeaponUpgrades", "key": "M168_Demo_Charge", "file": "WeaponUpgrades/M168_Demo_Charge.txt"}, {"category": "WeaponUpgrades", "key": "Needle_Rifle", "file": "WeaponUpgrades/Needle_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "M11_Combat_Knife", "file": "WeaponUpgrades/M11_Combat_Knife.txt"}, {"category": "WeaponUpgrades", "key": "BR75_Battle_Rifle", "file": "WeaponUpgrades/BR75_Battle_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "Combat_Knife", "file": "WeaponUpgrades/Combat_Knife.txt"}, {"category": "WeaponUpgrades", "key": "M41_SPNKr", "file": "WeaponUpgrades/M41_SPNKr.txt"}, {"category": "WeaponUpgrades", "key": "Disruptor", "file": "WeaponUpgrades/Disruptor.txt"}, {"category": "WeaponUpgrades", "key": "Covenant_Carbine", "file": "WeaponUpgrades/Covenant_Carbine.txt"}, {"category": "WeaponUpgrades", "key": "Plasma_Launcher", "file": "WeaponUpgrades/Plasma_Launcher.txt"}, {"category": "WeaponUpgrades", "key": "Brute_Shot", "file": "WeaponUpgrades/Brute_Shot.txt"}, {"category": "WeaponUpgrades", "key": "Shock_Rifle", "file": "WeaponUpgrades/Shock_Rifle.txt"}, {"category": "WeaponUpgrades", "key": "Cindershot", "file": "WeaponUpgrades/Cindershot.txt"}, {"category": "WeaponUpgrades", "key": "Pulse_Carbine", "file": "WeaponUpgrades/Pulse_Carbine.txt"}, {"category": "WeaponUpgrades", "key": "MA5K_Avenger_Carbine", "file": "WeaponUpgrades/MA5K_Avenger_Carbine.txt"}, {"category": "ModelCards", "key": "Jiralhanae_Warrior", "file": "ModelCards/Jiralhanae_Warrior.txt"}, {"category": "ModelCards", "key": "Spartan_JFO_H165_Target_Locator", "file": "ModelCards/Spartan_JFO_H165_Target_Locator.txt"}, {"category": "ModelCards", "key": "Jiralhanae_Berserker_Spike_Grenade", "file": "ModelCards/Jiralhanae_Berserker_Spike_Grenade.txt"}, {"category": "ModelCards", "key": "ODST_Firebreak_M90_Shotgun", "file": "ModelCards/ODST_Firebreak_M90_Shotgun.txt"}, {"category": "ModelCards", "key": "Spartan_Deadeye_Stalker_Rifle", "file": "ModelCards/Spartan_Deadeye_Stalker_Rifle.txt"}, {"category": "ModelCards", "key": "Spartan_MK_VII_MA40_Assault_Rifle", "file": "ModelCards/Spartan_MK_VII_MA40_Assault_Rifle.txt"}, {"category": "ModelCards", "key": "UNSC_Marine_Commando", "file": "ModelCards/UNSC_Marine_Commando.txt"}, {"category": "ModelCards", "key": "Kig_Yar_Sniper", "file": "ModelCards/Kig_Yar_Sniper.txt"}, {"category": "ModelCards", "key": "Sangheili_Mercenary_Energy_Sword", "file": "ModelCards/Sangheili_Mercenary_Energy_Sword.txt"}, {"category": "ModelCards", "key": "UNSC_Marine_Sniper", "file": "ModelCards/UNSC_Marine_Sniper.txt"}, {"category": "ModelCards", "key": "UNSC_Marine_BR", "file": "ModelCards/UNSC_Marine_BR.txt"}, {"category": "ModelCards", "key": "Captain_Veronica_Dare_Oni", "file": "ModelCards/Captain_Veronica_Dare_Oni.txt"}, {"category": "ModelCards", "key": "Emile_A239_Noble_Four", "file": "ModelCards/Emile_A239_Noble_Four.txt"}, {"category": "ModelCards", "key": "ODST_Air_Assault_MA40_Assault_Rifle", "file": "ModelCards/ODST_Air_Assault_MA40_Assault_Rifle.txt"}, {"category": "ModelCards", "key": "Gunnery_Sergeant_Edward_Buck", "file": "ModelCards/Gunnery_Sergeant_Edward_Buck.txt"}, {"category": "ModelCards", "key": "Spartan_MK_VII_Pulse_Carbine", "file": "ModelCards/Spartan_MK_VII_Pulse_Carbine.txt"}, {"category": "ModelCards", "key": "Spartan_HAZOP_Spike_Rifle", "file": "ModelCards/Spartan_HAZOP_Spike_Rifle.txt"}, {"category": "ModelCards", "key": "Spartan_B312_Noble_Six", "file": "ModelCards/Spartan_B312_Noble_Six.txt"}, {"category": "ModelCards", "key": "Sangheili_Enforcer", "file": "ModelCards/Sangheili_Enforcer.txt"}, {"category": "ModelCards", "key": "Spartan_HAZOP_M45_Shotgun", "file": "ModelCards/Spartan_HAZOP_M45_Shotgun.txt"}, {"category": "ModelCards", "key": "Sangheili_Mercenary_Plasma_Rifle", "file": "ModelCards/Sangheili_Mercenary_Plasma_Rifle.txt"}, {"category": "ModelCards", "key": "Spartan_Brawler_Needler", "file": "ModelCards/Spartan_Brawler_Needler.txt"}, {"category": "ModelCards", "key": "Sangheili_Mercenary_Pulse_Carbine", "file": "ModelCards/Sangheili_Mercenary_Pulse_Carbine.txt"}, {"category": "ModelCards", "key": "Spartan_JFO_Concussion_Rifle", "file": "ModelCards/Spartan_JFO_Concussion_Rifle.txt"}, {"category": "ModelCards", "key": "UNSC_Marine_SPNKr", "file": "ModelCards/UNSC_Marine_SPNKr.txt"}, {"category": "ModelCards", "key": "Unggoy_Assault_Disruptor", "file": "ModelCards/Unggoy_Assault_Disruptor.txt"}, {"category": "ModelCards", "key": "Spartan_Brawler_CQS48_Bulldog", "file": "ModelCards/Spartan_Brawler_CQS48_Bulldog.txt"}, {"category": "ModelCards", "key": "Carter_A259_Noble_One", "file": "ModelCards/Carter_A259_Noble_One.txt"}, {"category": "ModelCards", "key": "Kig_Yar_Freebooter", "file": "ModelCards/Kig_Yar_Freebooter.txt"}, {"category": "ModelCards", "key": "UNSC_Comms_Marine", "file": "ModelCards/UNSC_Comms_Marine.txt"}, {"category": "ModelCards", "key": "Spartan_Zvezda_Cindershot", "file": "ModelCards/Spartan_Zvezda_Cindershot.txt"}, {"category": "ModelCards", "key": "Unggoy_Conscript_Needler", "file": "ModelCards/Unggoy_Conscript_Needler.txt"}, {"category": "ModelCards", "key": "Kat_B320_Noble_Two", "file": "ModelCards/Kat_B320_Noble_Two.txt"}, {"category": "ModelCards", "key": "Spartan_Deadeye_M392_DMR", "file": "ModelCards/Spartan_Deadeye_M392_DMR.txt"}, {"category": "ModelCards", "key": "UNSC_Marine_Pulse_Carb", "file": "ModelCards/UNSC_Marine_Pulse_Carb.txt"}, {"category": "ModelCards", "key": "ODST_Captain", "file": "ModelCards/ODST_Captain.txt"}, {"category": "ModelCards", "key": "Spartan_Gungnir_Plasma_Launcher", "file": "ModelCards/Spartan_Gungnir_Plasma_Launcher.txt"}, {"category": "ModelCards", "key": "Jorge_052_Noble_Five", "file": "ModelCards/Jorge_052_Noble_Five.txt"}, {"category": "ModelCards", "key": "Jiralhanae_Captain_Ravager", "file": "ModelCards/Jiralhanae_Captain_Ravager.txt"}, {"category": "ModelCards", "key": "Jiralhanae_Berserker_Dynamo_Grenade", "file": "ModelCards/Jiralhanae_Berserker_Dynamo_Grenade.txt"}, {"category": "ModelCards", "key": "Unggoy_Assault_Needler", "file": "ModelCards/Unggoy_Assault_Needler.txt"}, {"category": "ModelCards", "key": "Spartan_Zvezda_VK78_Commando", "file": "ModelCards/Spartan_Zvezda_VK78_Commando.txt"}, {"category": "ModelCards", "key": "Jiralhanae_Sniper_Shock_Rifle_Disruptor", "file": "ModelCards/Jiralhanae_Sniper_Shock_Rifle_Disruptor.txt"}, {"category": "ModelCards", "key": "Unggoy_Conscript_Plasma_Pistol", "file": "ModelCards/Unggoy_Conscript_Plasma_Pistol.txt"}, {"category": "ModelCards", "key": "Tovarus", "file": "ModelCards/Tovarus.txt"}, {"category": "ModelCards", "key": "ODST_Firebreak_M7057_Flamethrower", "file": "ModelCards/ODST_Firebreak_M7057_Flamethrower.txt"}, {"category": "ModelCards", "key": "ODST_Air_Assault_M7S_SMG", "file": "ModelCards/ODST_Air_Assault_M7S_SMG.txt"}, {"category": "ModelCards", "key": "Hyperius", "file": "ModelCards/Hyperius.txt"}, {"category": "ModelCards", "key": "UNSC_Marine_Medic", "file": "ModelCards/UNSC_Marine_Medic.txt"}, {"category": "ModelCards", "key": "UNSC_Marine_Corporal", "file": "ModelCards/UNSC_Marine_Corporal.txt"}, {"category": "ModelCards", "key": "Tomas_Horvath", "file": "ModelCards/Tomas_Horvath.txt"}, {"category": "ModelCards", "key": "ODST_Special_Purpose_Trooper_BR55_Battle_Rifle", "file": "ModelCards/ODST_Special_Purpose_Trooper_BR55_Battle_Rifle.txt"}, {"category": "ModelCards", "key": "Sangheili_Mercenary_Needler", "file": "ModelCards/Sangheili_Mercenary_Needler.txt"}, {"category": "ModelCards", "key": "Spartan_Gungnir_M319_Grenade_Launcher", "file": "ModelCards/Spartan_Gungnir_M319_Grenade_Launcher.txt"}, {"category": "ModelCards", "key": "Jiralhanae_Captain_MLRS2_Hydra", "file": "ModelCards/Jiralhanae_Captain_MLRS2_Hydra.txt"}, {"category": "ModelCards", "key": "Spartan_CQB_Energy_Sword", "file": "ModelCards/Spartan_CQB_Energy_Sword.txt"}, {"category": "ModelCards", "key": "Jiralhanae_Sniper_Skewer_Magler", "file": "ModelCards/Jiralhanae_Sniper_Skewer_Magler.txt"}, {"category": "ModelCards", "key": "ODST_2nd_Lieutenant", "file": "ModelCards/ODST_2nd_Lieutenant.txt"}, {"category": "ModelCards", "key": "Master_Chief", "file": "ModelCards/Master_Chief.txt"}, {"category": "ModelCards", "key": "Jiralhanae_Chosen_Warrior", "file": "ModelCards/Jiralhanae_Chosen_Warrior.txt"}, {"category": "ModelCards", "key": "Atriox_Jiralhanae_Warmaster", "file": "ModelCards/Atriox_Jiralhanae_Warmaster.txt"}, {"category": "ModelCards", "key": "Jun_A266_Noble_Three", "file": "ModelCards/Jun_A266_Noble_Three.txt"}, {"category": "ModelCards", "key": "ODST_Special_Purpose_Trooper_M392_DMR", "file": "ModelCards/ODST_Special_Purpose_Trooper_M392_DMR.txt"}, {"category": "ModelCards", "key": "Jega_Rdomnai", "file": "ModelCards/Jega_Rdomnai.txt"}, {"category": "ModelCards", "key": "Spartan_CQB_Gravity_Hammer", "file": "ModelCards/Spartan_CQB_Gravity_Hammer.txt"}]}
+{
+  "entries": [
+    {
+      "category": "Items_Equipment",
+      "key": "Spike_Grenade_Equipment",
+      "file": "Items_Equipment/Spike_Grenade_Equipment.txt"
+    },
+    {
+      "category": "Items_Equipment",
+      "key": "Dynamo_Grenade_Equipment",
+      "file": "Items_Equipment/Dynamo_Grenade_Equipment.txt"
+    },
+    {
+      "category": "Items_Equipment",
+      "key": "Plasma_Grenade_Equipment",
+      "file": "Items_Equipment/Plasma_Grenade_Equipment.txt"
+    },
+    {
+      "category": "Items_Equipment",
+      "key": "Fragmentation_Grenade_Equipment",
+      "file": "Items_Equipment/Fragmentation_Grenade_Equipment.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Overshield",
+      "file": "Items/Overshield.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Threat_Sensor",
+      "file": "Items/Threat_Sensor.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Health_Pack",
+      "file": "Items/Health_Pack.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Explosive_Ammo",
+      "file": "Items/Explosive_Ammo.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Dynamo_Grenade",
+      "file": "Items/Dynamo_Grenade.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Thruster_Pack",
+      "file": "Items/Thruster_Pack.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Shroud_Screen",
+      "file": "Items/Shroud_Screen.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Plasma_Grenade",
+      "file": "Items/Plasma_Grenade.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Repair_Field",
+      "file": "Items/Repair_Field.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Drop_Wall",
+      "file": "Items/Drop_Wall.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Quantum_Translocator",
+      "file": "Items/Quantum_Translocator.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Active_Camouflage",
+      "file": "Items/Active_Camouflage.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Grappleshot",
+      "file": "Items/Grappleshot.txt"
+    },
+    {
+      "category": "Items",
+      "key": "M168_Demo_Charge",
+      "file": "Items/M168_Demo_Charge.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Frag_Grenade",
+      "file": "Items/Frag_Grenade.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Spike_Grenade",
+      "file": "Items/Spike_Grenade.txt"
+    },
+    {
+      "category": "Items",
+      "key": "Hardlight_Shield",
+      "file": "Items/Hardlight_Shield.txt"
+    },
+    {
+      "category": "CommandUpgrades",
+      "key": "Two_Extra_Command_Die",
+      "file": "CommandUpgrades/Two_Extra_Command_Die.txt"
+    },
+    {
+      "category": "CommandUpgrades",
+      "key": "Extra_D8_Die",
+      "file": "CommandUpgrades/Extra_D8_Die.txt"
+    },
+    {
+      "category": "CommandUpgrades",
+      "key": "Extra_Recon_Roll",
+      "file": "CommandUpgrades/Extra_Recon_Roll.txt"
+    },
+    {
+      "category": "CommandUpgrades",
+      "key": "Extra_Command_Die_Single_Use",
+      "file": "CommandUpgrades/Extra_Command_Die_Single_Use.txt"
+    },
+    {
+      "category": "CommandUpgrades",
+      "key": "Advanced_Reconnaissance",
+      "file": "CommandUpgrades/Advanced_Reconnaissance.txt"
+    },
+    {
+      "category": "CommandUpgrades",
+      "key": "Extra_Command_Die_Unlimited",
+      "file": "CommandUpgrades/Extra_Command_Die_Unlimited.txt"
+    },
+    {
+      "category": "Models",
+      "key": "MKVII_PulseCarbine",
+      "file": "Models/MKVII_PulseCarbine.txt"
+    },
+    {
+      "category": "Models",
+      "key": "HAZOP_M45Shotgun",
+      "file": "Models/HAZOP_M45Shotgun.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jiralhanae_Captain_MLRS2_Hydra",
+      "file": "Models/Jiralhanae_Captain_MLRS2_Hydra.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jiralhanae_Berserker_Spike_Grenade",
+      "file": "Models/Jiralhanae_Berserker_Spike_Grenade.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_Firebreak_M90_Shotgun",
+      "file": "Models/ODST_Firebreak_M90_Shotgun.txt"
+    },
+    {
+      "category": "Models",
+      "key": "SpartanB312_Noble_Six",
+      "file": "Models/SpartanB312_Noble_Six.txt"
+    },
+    {
+      "category": "Models",
+      "key": "MKVII_MA40AssaultRifle",
+      "file": "Models/MKVII_MA40AssaultRifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Zvezda_VK78Commando",
+      "file": "Models/Zvezda_VK78Commando.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Brawler_CQS48Bulldog",
+      "file": "Models/Brawler_CQS48Bulldog.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_Captain",
+      "file": "Models/ODST_Captain.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Gungnir_M319GrenadeLauncher",
+      "file": "Models/Gungnir_M319GrenadeLauncher.txt"
+    },
+    {
+      "category": "Models",
+      "key": "CQB_GravityHammer",
+      "file": "Models/CQB_GravityHammer.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Deadeye_M392DMR",
+      "file": "Models/Deadeye_M392DMR.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Gungnir_PlasmaLauncher",
+      "file": "Models/Gungnir_PlasmaLauncher.txt"
+    },
+    {
+      "category": "Models",
+      "key": "JunA266_Noble_Three",
+      "file": "Models/JunA266_Noble_Three.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jiralhanae_Captain_Ravager",
+      "file": "Models/Jiralhanae_Captain_Ravager.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Kat_B320_Noble_Two",
+      "file": "Models/Kat_B320_Noble_Two.txt"
+    },
+    {
+      "category": "Models",
+      "key": "EmileA239_Noble_Four",
+      "file": "Models/EmileA239_Noble_Four.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jorge052_Noble_Five",
+      "file": "Models/Jorge052_Noble_Five.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Deadeye_StalkerRifle",
+      "file": "Models/Deadeye_StalkerRifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_2ndLieutenant",
+      "file": "Models/ODST_2ndLieutenant.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Brawler_Needler",
+      "file": "Models/Brawler_Needler.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Gunnery_Sergeant_Edward_Buck",
+      "file": "Models/Gunnery_Sergeant_Edward_Buck.txt"
+    },
+    {
+      "category": "Models",
+      "key": "HAZOP_SpikeRifle",
+      "file": "Models/HAZOP_SpikeRifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Carter_A259_Noble_One",
+      "file": "Models/Carter_A259_Noble_One.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jiralhanae_Berserker_Dynamo_Grenade",
+      "file": "Models/Jiralhanae_Berserker_Dynamo_Grenade.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_Firebreak_M7057_Flamethrower",
+      "file": "Models/ODST_Firebreak_M7057_Flamethrower.txt"
+    },
+    {
+      "category": "Models",
+      "key": "JFO_ConcussionRifle",
+      "file": "Models/JFO_ConcussionRifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jiralhanae_Sniper_SkewerMagler",
+      "file": "Models/Jiralhanae_Sniper_SkewerMagler.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_MercenaryPlasmaRifle",
+      "file": "Models/Sangheili_MercenaryPlasmaRifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jiralhanae_Warrior",
+      "file": "Models/Jiralhanae_Warrior.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jiralhanae_Chosen_Warrior",
+      "file": "Models/Jiralhanae_Chosen_Warrior.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_Special_Purpose_Trooper_BR55_Battle_Rifle",
+      "file": "Models/ODST_Special_Purpose_Trooper_BR55_Battle_Rifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jiralhanae_Sniper_Shock_RifleDisruptor",
+      "file": "Models/Jiralhanae_Sniper_Shock_RifleDisruptor.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Atriox_Jiralhanae_Warmaster",
+      "file": "Models/Atriox_Jiralhanae_Warmaster.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_Air_Assault_MA40_Assault_Rifle",
+      "file": "Models/ODST_Air_Assault_MA40_Assault_Rifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Spartan_CQB_Energy_Sword",
+      "file": "Models/Spartan_CQB_Energy_Sword.txt"
+    },
+    {
+      "category": "Models",
+      "key": "JFO_TargetLocator",
+      "file": "Models/JFO_TargetLocator.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_Special_Purpose_Trooper_M392_DMR",
+      "file": "Models/ODST_Special_Purpose_Trooper_M392_DMR.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Master_Chief",
+      "file": "Models/Master_Chief.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_Air_Assault_M7S_SMG",
+      "file": "Models/ODST_Air_Assault_M7S_SMG.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Zvezda_Cindershot",
+      "file": "Models/Zvezda_Cindershot.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Captain_Veronica_Dare",
+      "file": "Models/Captain_Veronica_Dare.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_MercenaryEnergySword",
+      "file": "Models/Sangheili_MercenaryEnergySword.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_MercenaryNeedler",
+      "file": "Models/Sangheili_MercenaryNeedler.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_MercenaryPulseCarbine",
+      "file": "Models/Sangheili_MercenaryPulseCarbine.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Reinforcements_Incoming",
+      "file": "SpecialOrders/Reinforcements_Incoming.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Holograms",
+      "file": "SpecialOrders/Holograms.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Your_Orders_Have_Changed",
+      "file": "SpecialOrders/Your_Orders_Have_Changed.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Lone_Wolf",
+      "file": "SpecialOrders/Lone_Wolf.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Return_to_Sender",
+      "file": "SpecialOrders/Return_to_Sender.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Snap_Shot",
+      "file": "SpecialOrders/Snap_Shot.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Rampage",
+      "file": "SpecialOrders/Rampage.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Defiance",
+      "file": "SpecialOrders/Defiance.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Hot_Drop",
+      "file": "SpecialOrders/Hot_Drop.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Target_Acquired",
+      "file": "SpecialOrders/Target_Acquired.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Supply_Drop",
+      "file": "SpecialOrders/Supply_Drop.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Unggoy_Plasma_Grenade_Assault",
+      "file": "SpecialOrders/Unggoy_Plasma_Grenade_Assault.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Pack_Brothers",
+      "file": "SpecialOrders/Pack_Brothers.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Alliance",
+      "file": "SpecialOrders/Alliance.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Finish_the_Fight",
+      "file": "SpecialOrders/Finish_the_Fight.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Bloodlust",
+      "file": "SpecialOrders/Bloodlust.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Hand_of_Atriox",
+      "file": "SpecialOrders/Hand_of_Atriox.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Our_Time_to_Shine",
+      "file": "SpecialOrders/Our_Time_to_Shine.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M392_DMR",
+      "file": "WeaponUpgrades/M392_DMR.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Focus_Rifle",
+      "file": "WeaponUpgrades/Focus_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Gravity_Hammer",
+      "file": "WeaponUpgrades/Gravity_Hammer.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Needler",
+      "file": "WeaponUpgrades/Needler.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Sentinel_Beam",
+      "file": "WeaponUpgrades/Sentinel_Beam.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "CQS48_Bulldog",
+      "file": "WeaponUpgrades/CQS48_Bulldog.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M7057_Flamethrower",
+      "file": "WeaponUpgrades/M7057_Flamethrower.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M6C_SOCOM",
+      "file": "WeaponUpgrades/M6C_SOCOM.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Skewer",
+      "file": "WeaponUpgrades/Skewer.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Plasma_Rifle",
+      "file": "WeaponUpgrades/Plasma_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Energy_Sword",
+      "file": "WeaponUpgrades/Energy_Sword.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "S7_Sniper_Rifle",
+      "file": "WeaponUpgrades/S7_Sniper_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Heatwave",
+      "file": "WeaponUpgrades/Heatwave.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M90_Shotgun",
+      "file": "WeaponUpgrades/M90_Shotgun.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Fuel_Rod_Gun",
+      "file": "WeaponUpgrades/Fuel_Rod_Gun.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Mauler",
+      "file": "WeaponUpgrades/Mauler.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Ravager",
+      "file": "WeaponUpgrades/Ravager.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "MA40_Assault_Rifle",
+      "file": "WeaponUpgrades/MA40_Assault_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "MLRS2_Hydra",
+      "file": "WeaponUpgrades/MLRS2_Hydra.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Concussion_Rifle",
+      "file": "WeaponUpgrades/Concussion_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Spike_Rifle",
+      "file": "WeaponUpgrades/Spike_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M7S_SMG",
+      "file": "WeaponUpgrades/M7S_SMG.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "BR55_Battle_Rifle",
+      "file": "WeaponUpgrades/BR55_Battle_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "H165_Target_Locator",
+      "file": "WeaponUpgrades/H165_Target_Locator.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M6_Spartan_Laser",
+      "file": "WeaponUpgrades/M6_Spartan_Laser.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Mangler_Ranged",
+      "file": "WeaponUpgrades/Mangler_Ranged.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M45_Shotgun",
+      "file": "WeaponUpgrades/M45_Shotgun.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Stalker_Rifle",
+      "file": "WeaponUpgrades/Stalker_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Energy_Dagger",
+      "file": "WeaponUpgrades/Energy_Dagger.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M319_Grenade_Launcher",
+      "file": "WeaponUpgrades/M319_Grenade_Launcher.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M6G_Magnum",
+      "file": "WeaponUpgrades/M6G_Magnum.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "VK78_Commando",
+      "file": "WeaponUpgrades/VK78_Commando.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Plasma_Repeater",
+      "file": "WeaponUpgrades/Plasma_Repeater.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M168_Demo_Charge",
+      "file": "WeaponUpgrades/M168_Demo_Charge.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Needle_Rifle",
+      "file": "WeaponUpgrades/Needle_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M11_Combat_Knife",
+      "file": "WeaponUpgrades/M11_Combat_Knife.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "BR75_Battle_Rifle",
+      "file": "WeaponUpgrades/BR75_Battle_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Combat_Knife",
+      "file": "WeaponUpgrades/Combat_Knife.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "M41_SPNKr",
+      "file": "WeaponUpgrades/M41_SPNKr.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Disruptor",
+      "file": "WeaponUpgrades/Disruptor.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Covenant_Carbine",
+      "file": "WeaponUpgrades/Covenant_Carbine.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Plasma_Launcher",
+      "file": "WeaponUpgrades/Plasma_Launcher.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Brute_Shot",
+      "file": "WeaponUpgrades/Brute_Shot.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Shock_Rifle",
+      "file": "WeaponUpgrades/Shock_Rifle.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Cindershot",
+      "file": "WeaponUpgrades/Cindershot.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "Pulse_Carbine",
+      "file": "WeaponUpgrades/Pulse_Carbine.txt"
+    },
+    {
+      "category": "WeaponUpgrades",
+      "key": "MA5K_Avenger_Carbine",
+      "file": "WeaponUpgrades/MA5K_Avenger_Carbine.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jiralhanae_Warrior",
+      "file": "ModelCards/Jiralhanae_Warrior.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_JFO_H165_Target_Locator",
+      "file": "ModelCards/Spartan_JFO_H165_Target_Locator.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jiralhanae_Berserker_Spike_Grenade",
+      "file": "ModelCards/Jiralhanae_Berserker_Spike_Grenade.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_Firebreak_M90_Shotgun",
+      "file": "ModelCards/ODST_Firebreak_M90_Shotgun.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Deadeye_Stalker_Rifle",
+      "file": "ModelCards/Spartan_Deadeye_Stalker_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_MK_VII_MA40_Assault_Rifle",
+      "file": "ModelCards/Spartan_MK_VII_MA40_Assault_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "UNSC_Marine_Commando",
+      "file": "ModelCards/UNSC_Marine_Commando.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Kig_Yar_Sniper",
+      "file": "ModelCards/Kig_Yar_Sniper.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Mercenary_Energy_Sword",
+      "file": "ModelCards/Sangheili_Mercenary_Energy_Sword.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "UNSC_Marine_Sniper",
+      "file": "ModelCards/UNSC_Marine_Sniper.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "UNSC_Marine_BR",
+      "file": "ModelCards/UNSC_Marine_BR.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Captain_Veronica_Dare_Oni",
+      "file": "ModelCards/Captain_Veronica_Dare_Oni.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Emile_A239_Noble_Four",
+      "file": "ModelCards/Emile_A239_Noble_Four.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_Air_Assault_MA40_Assault_Rifle",
+      "file": "ModelCards/ODST_Air_Assault_MA40_Assault_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Gunnery_Sergeant_Edward_Buck",
+      "file": "ModelCards/Gunnery_Sergeant_Edward_Buck.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_MK_VII_Pulse_Carbine",
+      "file": "ModelCards/Spartan_MK_VII_Pulse_Carbine.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_HAZOP_Spike_Rifle",
+      "file": "ModelCards/Spartan_HAZOP_Spike_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_B312_Noble_Six",
+      "file": "ModelCards/Spartan_B312_Noble_Six.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Enforcer",
+      "file": "ModelCards/Sangheili_Enforcer.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_HAZOP_M45_Shotgun",
+      "file": "ModelCards/Spartan_HAZOP_M45_Shotgun.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Mercenary_Plasma_Rifle",
+      "file": "ModelCards/Sangheili_Mercenary_Plasma_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Brawler_Needler",
+      "file": "ModelCards/Spartan_Brawler_Needler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Mercenary_Pulse_Carbine",
+      "file": "ModelCards/Sangheili_Mercenary_Pulse_Carbine.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_JFO_Concussion_Rifle",
+      "file": "ModelCards/Spartan_JFO_Concussion_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "UNSC_Marine_SPNKr",
+      "file": "ModelCards/UNSC_Marine_SPNKr.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Unggoy_Assault_Disruptor",
+      "file": "ModelCards/Unggoy_Assault_Disruptor.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Brawler_CQS48_Bulldog",
+      "file": "ModelCards/Spartan_Brawler_CQS48_Bulldog.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Carter_A259_Noble_One",
+      "file": "ModelCards/Carter_A259_Noble_One.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Kig_Yar_Freebooter",
+      "file": "ModelCards/Kig_Yar_Freebooter.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "UNSC_Comms_Marine",
+      "file": "ModelCards/UNSC_Comms_Marine.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Zvezda_Cindershot",
+      "file": "ModelCards/Spartan_Zvezda_Cindershot.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Unggoy_Conscript_Needler",
+      "file": "ModelCards/Unggoy_Conscript_Needler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Kat_B320_Noble_Two",
+      "file": "ModelCards/Kat_B320_Noble_Two.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Deadeye_M392_DMR",
+      "file": "ModelCards/Spartan_Deadeye_M392_DMR.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "UNSC_Marine_Pulse_Carb",
+      "file": "ModelCards/UNSC_Marine_Pulse_Carb.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_Captain",
+      "file": "ModelCards/ODST_Captain.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Gungnir_Plasma_Launcher",
+      "file": "ModelCards/Spartan_Gungnir_Plasma_Launcher.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jorge_052_Noble_Five",
+      "file": "ModelCards/Jorge_052_Noble_Five.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jiralhanae_Captain_Ravager",
+      "file": "ModelCards/Jiralhanae_Captain_Ravager.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jiralhanae_Berserker_Dynamo_Grenade",
+      "file": "ModelCards/Jiralhanae_Berserker_Dynamo_Grenade.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Unggoy_Assault_Needler",
+      "file": "ModelCards/Unggoy_Assault_Needler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Zvezda_VK78_Commando",
+      "file": "ModelCards/Spartan_Zvezda_VK78_Commando.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jiralhanae_Sniper_Shock_Rifle_Disruptor",
+      "file": "ModelCards/Jiralhanae_Sniper_Shock_Rifle_Disruptor.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Unggoy_Conscript_Plasma_Pistol",
+      "file": "ModelCards/Unggoy_Conscript_Plasma_Pistol.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Tovarus",
+      "file": "ModelCards/Tovarus.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_Firebreak_M7057_Flamethrower",
+      "file": "ModelCards/ODST_Firebreak_M7057_Flamethrower.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_Air_Assault_M7S_SMG",
+      "file": "ModelCards/ODST_Air_Assault_M7S_SMG.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Hyperius",
+      "file": "ModelCards/Hyperius.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "UNSC_Marine_Medic",
+      "file": "ModelCards/UNSC_Marine_Medic.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "UNSC_Marine_Corporal",
+      "file": "ModelCards/UNSC_Marine_Corporal.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Tomas_Horvath",
+      "file": "ModelCards/Tomas_Horvath.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_Special_Purpose_Trooper_BR55_Battle_Rifle",
+      "file": "ModelCards/ODST_Special_Purpose_Trooper_BR55_Battle_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Mercenary_Needler",
+      "file": "ModelCards/Sangheili_Mercenary_Needler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Gungnir_M319_Grenade_Launcher",
+      "file": "ModelCards/Spartan_Gungnir_M319_Grenade_Launcher.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jiralhanae_Captain_MLRS2_Hydra",
+      "file": "ModelCards/Jiralhanae_Captain_MLRS2_Hydra.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_CQB_Energy_Sword",
+      "file": "ModelCards/Spartan_CQB_Energy_Sword.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jiralhanae_Sniper_Skewer_Magler",
+      "file": "ModelCards/Jiralhanae_Sniper_Skewer_Magler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_2nd_Lieutenant",
+      "file": "ModelCards/ODST_2nd_Lieutenant.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Master_Chief",
+      "file": "ModelCards/Master_Chief.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jiralhanae_Chosen_Warrior",
+      "file": "ModelCards/Jiralhanae_Chosen_Warrior.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Atriox_Jiralhanae_Warmaster",
+      "file": "ModelCards/Atriox_Jiralhanae_Warmaster.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jun_A266_Noble_Three",
+      "file": "ModelCards/Jun_A266_Noble_Three.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_Special_Purpose_Trooper_M392_DMR",
+      "file": "ModelCards/ODST_Special_Purpose_Trooper_M392_DMR.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Jega_Rdomnai",
+      "file": "ModelCards/Jega_Rdomnai.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_CQB_Gravity_Hammer",
+      "file": "ModelCards/Spartan_CQB_Gravity_Hammer.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Jega_Rdomnai",
+      "file": "Models/Jega_Rdomnai.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Enforcer",
+      "file": "Models/Sangheili_Enforcer.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Hyperius",
+      "file": "Models/Hyperius.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Kig_Yar_Sniper",
+      "file": "Models/Kig_Yar_Sniper.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Kig_Yar_Freebooter",
+      "file": "Models/Kig_Yar_Freebooter.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Tomas_Horvath",
+      "file": "Models/Tomas_Horvath.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Unggoy_Assault_Disruptor",
+      "file": "Models/Unggoy_Assault_Disruptor.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Tovarus",
+      "file": "Models/Tovarus.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Unggoy_Conscript_Needler",
+      "file": "Models/Unggoy_Conscript_Needler.txt"
+    },
+    {
+      "category": "Models",
+      "key": "UNSC_Marine_Pulse_Carb",
+      "file": "Models/UNSC_Marine_Pulse_Carb.txt"
+    }
+  ]
+}
