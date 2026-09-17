@@ -1064,6 +1064,51 @@
       "category": "Models",
       "key": "UNSC_Marine_Pulse_Carb",
       "file": "Models/UNSC_Marine_Pulse_Carb.txt"
+    },
+    {
+      "category": "Models",
+      "key": "UNSC_Marine_SPNKr",
+      "file": "Models/UNSC_Marine_SPNKr.txt"
+    },
+    {
+      "category": "Models",
+      "key": "UNSC_Marine_Corporal",
+      "file": "Models/UNSC_Marine_Corporal.txt"
+    },
+    {
+      "category": "Models",
+      "key": "UNSC_Marine_Medic",
+      "file": "Models/UNSC_Marine_Medic.txt"
+    },
+    {
+      "category": "Models",
+      "key": "UNSC_Marine_Commando",
+      "file": "Models/UNSC_Marine_Commando.txt"
+    },
+    {
+      "category": "Models",
+      "key": "UNSC_Marine_BR",
+      "file": "Models/UNSC_Marine_BR.txt"
+    },
+    {
+      "category": "Models",
+      "key": "UNSC_Comms_Marine",
+      "file": "Models/UNSC_Comms_Marine.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Unggoy_Conscript_Plasma_Pistol",
+      "file": "Models/Unggoy_Conscript_Plasma_Pistol.txt"
+    },
+    {
+      "category": "Models",
+      "key": "UNSC_Marine_Sniper",
+      "file": "Models/UNSC_Marine_Sniper.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Unggoy_Assault_Needler",
+      "file": "Models/Unggoy_Assault_Needler.txt"
     }
   ]
 }
