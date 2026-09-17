@@ -1,0 +1,60 @@
+{
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 0,
+    "posY": 0,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "Veteran Heirlooms",
+  "Description": "Points: 6\n\nAt the start of the first round, after rolling Command Dice, randomly determine a single item OR Special Weapon from the available pool of counters - that counter can then be given to any model within this fireteam. This now counts as a free upgrade for that model, and will respawn with them as per normal upgrades. Models must still obey the usual rules for carrying items and weapons, so must have a free slot to equip them.",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Det Upgrade"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 93000,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "930": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16612514606170107443/535868CAEE8B54073B6089E497E708617ADCD342/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126415835/8C297F6B1221BFC3B18C0238A545AFBEEE81BCD6/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": ""
+}

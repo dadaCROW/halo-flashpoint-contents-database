@@ -1,0 +1,60 @@
+{
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 0,
+    "posY": 0,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "Enraged",
+  "Description": "Points: 8\n\nIf at the start of thier activation a Jiralhanae Berserker is wounded, the model will gain the Fearless keyword (This will remove any Pinned Token on the model). They do not have it when they are at full health. They may gain and lose the keyword throughout the game depending on their current condition.",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Det Upgrade"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 93400,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "934": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12051032424293011747/8332829225A7A305ADA254A47682DC1434D1407C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126415835/8C297F6B1221BFC3B18C0238A545AFBEEE81BCD6/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": ""
+}

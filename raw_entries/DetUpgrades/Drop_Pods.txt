@@ -1,0 +1,60 @@
+{
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 0,
+    "posY": 0,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "Drop Pods",
+  "Description": "Points: 4\n\nIn this Fireteam, any Jiralhanae Berserker and Jiralhanae Warrior units may use the Special Order \u201cAerial Deployment\u201d.\n\nFollow the rules as listed for Aerial Deployment, with the following changes for these models:\n\nWhen using the respawn option: The model may target a cube containing enemy models to deploy into. If the Ranged test is successful, before this model lands it will perform a Drop Pod Attack - Frag (5), AP 1 Ranged Attack on the target cube. After the attack, the model will be placed in the cube with one Short action remaining.\n\nWhen using the first Round redeploy option: You may only remove one of your Berserker or Warrior models from the board. When it activates, deploy it as described above with a Drop Pod Attack. You may use any number of Special Order results to redeploy that many Jiralhanae Berserkers or Jiralhanae Warriors.",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Det Upgrade"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 93100,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "931": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12120961673212667507/4672CBF577BAFD1286440F4D64A8E8AB59E29ADD/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126415835/8C297F6B1221BFC3B18C0238A545AFBEEE81BCD6/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": ""
+}

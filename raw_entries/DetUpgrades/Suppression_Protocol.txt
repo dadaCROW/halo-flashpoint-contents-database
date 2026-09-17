@@ -1,0 +1,60 @@
+{
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 0,
+    "posY": 0,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "Suppression Protocol",
+  "Description": "Points: 5\n\nAt the start of the first battle round, pick up to 3 friendly models with ranged weapons that do not have the Grenade, Incendiary, Explosive, or Lunge keywords. Until the end of the game, those weapons now all have the Rapid Fire keyword. This can only be used on default weapons for those models and not any weapons assigned to the model through list-building, or weapon spawns.",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Det Upgrade"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 93600,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "936": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17106298832096850301/8DB67999B0C4F303572A61A12B3CA803F9B563EC/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/29943767126415835/8C297F6B1221BFC3B18C0238A545AFBEEE81BCD6/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": ""
+}

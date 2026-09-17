@@ -1109,6 +1109,56 @@
       "category": "Models",
       "key": "Unggoy_Assault_Needler",
       "file": "Models/Unggoy_Assault_Needler.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Veteran_Heirlooms",
+      "file": "DetUpgrades/Veteran_Heirlooms.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Drop_Pods",
+      "file": "DetUpgrades/Drop_Pods.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Ambush_Hunters",
+      "file": "DetUpgrades/Ambush_Hunters.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Tactical_Display_Unit",
+      "file": "DetUpgrades/Tactical_Display_Unit.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Enraged",
+      "file": "DetUpgrades/Enraged.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "The_Warmaster_s_Pack",
+      "file": "DetUpgrades/The_Warmaster_s_Pack.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Suppression_Protocol",
+      "file": "DetUpgrades/Suppression_Protocol.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Tactical_Advance",
+      "file": "DetUpgrades/Tactical_Advance.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Hostile_Incoming",
+      "file": "DetUpgrades/Hostile_Incoming.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "UNSC_Defence_Shield",
+      "file": "DetUpgrades/UNSC_Defence_Shield.txt"
     }
   ]
 }
