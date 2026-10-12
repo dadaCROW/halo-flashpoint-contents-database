@@ -25,7 +25,7 @@
     "b": 0.713235259
   },
   "Tags": [
-    "Det Upgrade"
+    "Special Order Banished"
   ],
   "LayoutGroupSortIndex": 0,
   "Value": 0,
