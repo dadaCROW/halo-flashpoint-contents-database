@@ -1159,6 +1159,11 @@
       "category": "DetUpgrades",
       "key": "UNSC_Defence_Shield",
       "file": "DetUpgrades/UNSC_Defence_Shield.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Hold_The_Line_Trooper",
+      "file": "SpecialOrders/Hold_The_Line_Trooper.txt"
     }
   ]
 }
