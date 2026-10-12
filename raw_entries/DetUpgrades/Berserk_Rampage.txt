@@ -1,0 +1,61 @@
+{
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 0,
+    "posY": 0,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "Berserk Rampage",
+  "Description": "Points: 6\n\nIf the active Jiralhanae unit has 3 or less wounds remaining, they can spend a Special Order result to add 1 to their Speed stats for this Activaiton. A Speed 1/2 Model will therefore become 2/3 for that round. \n\nAt the end of that model's activation, it suffers 1 wound. Armour and Energy Shields do not protect against this damage. If this kills the model, the kill is awarded to the opposing player.",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Det Upgrade"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 92800,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "928": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10335051896062051211/E020F516C77433FA29C47D9230DA6EA6A29806E9/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10335051896062051211/E020F516C77433FA29C47D9230DA6EA6A29806E9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "GUID": "fb17a5"
+}

@@ -1,0 +1,61 @@
+{
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 0,
+    "posY": 0,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "Aerial Deployment",
+  "Description": "Points: 4\n\nModels with the Jump Pack keyword can be deployed using Aerial Deployment.\n\nThis Special Order can be used in two different ways:\n\n1. When a model is respawning\n\nWhen the active model respawns: instead of advancing onto the board at a respawn point, it may spend a Special Order result to take an Advance action to deploy onto any cube on the board. It must be placed on the top level of the cube stack.\n\nRoll a 3 Dice Ranged test (2).\n\nRanged test wins. No effect. \n\nRange test fails. The model is Pinned and scatters into an adjacent cube (make a scatter roll to determine which direction - this is forced movement from the target cube).\n\n2. At the start of the first Round\n\nImmediately after rolling Command Dice is completed and before the first Turn, you may spend a Special Order result to remove one friendly model from the board. When this model subsequently activates, deploy it as described above. You may use any number of Special Order results to redeploy that many models.\n\nIf the model would scatter off the board edge, re-roll the scatter dice. This order may not be used to intentionally land in the enemy deployment zone.",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Det Upgrade"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 92700,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "927": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17184868978093463819/0093598C3C2941A99BB94297C3E28E4752452CF7/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17184868978093463819/0093598C3C2941A99BB94297C3E28E4752452CF7/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "GUID": "3c3de3"
+}

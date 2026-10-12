@@ -1164,6 +1164,16 @@
       "category": "SpecialOrders",
       "key": "Hold_The_Line_Trooper",
       "file": "SpecialOrders/Hold_The_Line_Trooper.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Aerial_Deployment",
+      "file": "DetUpgrades/Aerial_Deployment.txt"
+    },
+    {
+      "category": "DetUpgrades",
+      "key": "Berserk_Rampage",
+      "file": "DetUpgrades/Berserk_Rampage.txt"
     }
   ]
 }
