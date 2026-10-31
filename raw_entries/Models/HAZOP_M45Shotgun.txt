@@ -10,8 +10,8 @@
       "Description": "[b][1C4811]UNSC[-][/b]",
       "GMNotes": "",
       "Locked": false,
-      "Grid": true,
-      "Snap": true,
+      "Grid": false,
+      "Snap": false,
       "CustomMesh": {
         "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/12977081811615150075/757B42E04713ACEED4AFD41A05D0CAA32859E519/",
         "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/14631169137736924283/723506E53B823D65486AE81325FC4B15748785DA/",

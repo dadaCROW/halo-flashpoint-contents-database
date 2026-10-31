@@ -7,6 +7,8 @@
       },
       "Nickname": "Kat-B320 Noble Two",
       "Description": "",
+      "Grid": false,
+      "Snap": false,
       "CustomMesh": {
         "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/9723926405635519920/445ECD997F89B73E5ECC237AA9EBC3AB351DF0E7/",
         "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11023668034026961352/FADA678EF76A8F3D294194374B23B9F4DD97C64C/",
