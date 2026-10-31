@@ -4,7 +4,8 @@
       "Transform": {
         "scaleX": 1.12,
         "scaleY": 1.12,
-        "scaleZ": 1.12
+        "scaleZ": 1.12,
+        "rotY": 45
       },
       "Nickname": "Sangheili Mercenary\n(Plasma Rifle)",
       "Description": "Banished",

@@ -4,7 +4,8 @@
       "Transform": {
         "scaleX": 0.75,
         "scaleY": 0.75,
-        "scaleZ": 0.75
+        "scaleZ": 0.75,
+        "rotY": 180
       },
       "Nickname": "Spartan Zvezda\n(Cindershot)",
       "Description": "[b][1C4811]UNSC[-][/b]",

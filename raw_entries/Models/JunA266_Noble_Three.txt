@@ -3,7 +3,8 @@
       "Transform": {
         "scaleX": 0.75,
         "scaleY": 0.75,
-        "scaleZ": 0.75
+        "scaleZ": 0.75,
+        "rotY": 180
       },
       "Nickname": "Jun-A266 Noble Three",
       "Description": "",
