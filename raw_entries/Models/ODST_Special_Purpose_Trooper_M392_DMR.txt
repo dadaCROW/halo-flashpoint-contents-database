@@ -5,7 +5,7 @@
         "scaleX": 0.75,
         "scaleY": 0.75,
         "scaleZ": 0.75,
-        "rotY": 90
+        "rotY": 270
       },
       "Nickname": "ODST Special Purpose Trooper\n(M392 DMR)",
       "Description": "",
