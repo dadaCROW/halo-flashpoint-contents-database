@@ -1174,6 +1174,256 @@
       "category": "SpecialOrders",
       "key": "Berserk_Rampage",
       "file": "SpecialOrders/Berserk_Rampage.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_General",
+      "file": "ModelCards/Sangheili_General.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_General",
+      "file": "Models/Sangheili_General.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Honor_Guard_Fuel_Rod",
+      "file": "ModelCards/Sangheili_Honor_Guard_Fuel_Rod.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Honor_Guard_Fuel_Rod",
+      "file": "Models/Sangheili_Honor_Guard_Fuel_Rod.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Honor_Guard_Energy_Sword",
+      "file": "ModelCards/Sangheili_Honor_Guard_Energy_Sword.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Honor_Guard_Energy_Sword",
+      "file": "Models/Sangheili_Honor_Guard_Energy_Sword.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Major",
+      "file": "ModelCards/Sangheili_Major.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Major",
+      "file": "Models/Sangheili_Major.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Minor_Energy_Sword",
+      "file": "ModelCards/Sangheili_Minor_Energy_Sword.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Minor_Energy_Sword",
+      "file": "Models/Sangheili_Minor_Energy_Sword.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Minor_Needler",
+      "file": "ModelCards/Sangheili_Minor_Needler.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Minor_Needler",
+      "file": "Models/Sangheili_Minor_Needler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Minor_Plasma_Rifle",
+      "file": "ModelCards/Sangheili_Minor_Plasma_Rifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Minor_Plasma_Rifle",
+      "file": "Models/Sangheili_Minor_Plasma_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Minor_Pulse_Carbine",
+      "file": "ModelCards/Sangheili_Minor_Pulse_Carbine.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Minor_Pulse_Carbine",
+      "file": "Models/Sangheili_Minor_Pulse_Carbine.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Ranger_Pulse_Carbine",
+      "file": "ModelCards/Sangheili_Ranger_Pulse_Carbine.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Ranger_Pulse_Carbine",
+      "file": "Models/Sangheili_Ranger_Pulse_Carbine.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Ranger_Needle_Rifle",
+      "file": "ModelCards/Sangheili_Ranger_Needle_Rifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Ranger_Needle_Rifle",
+      "file": "Models/Sangheili_Ranger_Needle_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Unggoy_Major_Disruptor",
+      "file": "ModelCards/Unggoy_Major_Disruptor.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Unggoy_Major_Disruptor",
+      "file": "Models/Unggoy_Major_Disruptor.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Unggoy_Major_Needler",
+      "file": "ModelCards/Unggoy_Major_Needler.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Unggoy_Major_Needler",
+      "file": "Models/Unggoy_Major_Needler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Unggoy_Minor_Needler",
+      "file": "ModelCards/Unggoy_Minor_Needler.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Unggoy_Minor_Needler",
+      "file": "Models/Unggoy_Minor_Needler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Unggoy_Minor_Plasma_Pistol",
+      "file": "ModelCards/Unggoy_Minor_Plasma_Pistol.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Unggoy_Minor_Plasma_Pistol",
+      "file": "Models/Unggoy_Minor_Plasma_Pistol.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Mgalekgolo",
+      "file": "ModelCards/Mgalekgolo.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Mgalekgolo",
+      "file": "Models/Mgalekgolo.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Kig_Yar_Minor_Needler",
+      "file": "ModelCards/Kig_Yar_Minor_Needler.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Kig_Yar_Minor_Needler",
+      "file": "Models/Kig_Yar_Minor_Needler.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Kig_Yar_Minor_Plasma_Pistol",
+      "file": "ModelCards/Kig_Yar_Minor_Plasma_Pistol.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Kig_Yar_Minor_Plasma_Pistol",
+      "file": "Models/Kig_Yar_Minor_Plasma_Pistol.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Kig_Yar_Sniper_Beam_Rifle",
+      "file": "ModelCards/Kig_Yar_Sniper_Beam_Rifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Kig_Yar_Sniper_Beam_Rifle",
+      "file": "Models/Kig_Yar_Sniper_Beam_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "San_Shyuum",
+      "file": "ModelCards/San_Shyuum.txt"
+    },
+    {
+      "category": "Models",
+      "key": "San_Shyuum",
+      "file": "Models/San_Shyuum.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Prophet_of_Regret",
+      "file": "ModelCards/Prophet_of_Regret.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Prophet_of_Regret",
+      "file": "Models/Prophet_of_Regret.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sergeant_Major_Avery_Johnson",
+      "file": "ModelCards/Sergeant_Major_Avery_Johnson.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sergeant_Major_Avery_Johnson",
+      "file": "Models/Sergeant_Major_Avery_Johnson.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "ODST_Special_Purpose_Trooper_Pulse_Carbine",
+      "file": "ModelCards/ODST_Special_Purpose_Trooper_Pulse_Carbine.txt"
+    },
+    {
+      "category": "Models",
+      "key": "ODST_Special_Purpose_Trooper_Pulse_Carbine",
+      "file": "Models/ODST_Special_Purpose_Trooper_Pulse_Carbine.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_Gungnir_M41_SPNKr",
+      "file": "ModelCards/Spartan_Gungnir_M41_SPNKr.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Spartan_Gungnir_M41_SPNKr",
+      "file": "Models/Spartan_Gungnir_M41_SPNKr.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Spartan_HAZOP_Needle_Rifle",
+      "file": "ModelCards/Spartan_HAZOP_Needle_Rifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Spartan_HAZOP_Needle_Rifle",
+      "file": "Models/Spartan_HAZOP_Needle_Rifle.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Sangheili_Mercenary_Concussion_Rifle",
+      "file": "ModelCards/Sangheili_Mercenary_Concussion_Rifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Sangheili_Mercenary_Concussion_Rifle",
+      "file": "Models/Sangheili_Mercenary_Concussion_Rifle.txt"
     }
   ]
 }
