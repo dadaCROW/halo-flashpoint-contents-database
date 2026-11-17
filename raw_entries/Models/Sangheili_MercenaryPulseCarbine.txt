@@ -54,7 +54,7 @@
           "LayoutGroupSortIndex": 0,
           "Value": 0,
           "Locked": false,
-          "Grid": true,
+          "Grid": false,
           "Snap": false,
           "IgnoreFoW": false,
           "MeasureMovement": true,

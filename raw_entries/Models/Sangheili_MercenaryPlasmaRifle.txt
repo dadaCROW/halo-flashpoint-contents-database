@@ -35,7 +35,7 @@
           "Description": "",
           "GMNotes": "",
           "Locked": false,
-          "Grid": true,
+          "Grid": false,
           "Snap": false,
           "IgnoreFoW": false,
           "MeasureMovement": true,

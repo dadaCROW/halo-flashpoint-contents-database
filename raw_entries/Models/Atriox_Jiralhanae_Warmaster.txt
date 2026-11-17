@@ -11,7 +11,7 @@
     "GMNotes": "",
     "Locked": false,
     "Grid": false,
-    "Snap": true,
+    "Snap": false,
     "CustomMesh": {
         "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/9285550002830164175/B330A4860367AD0E245392117D6DFBE3B807FD0B/",
         "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/17818935906795747224/572014518DB878B453FF59561A5BCD807CCB073E/",
