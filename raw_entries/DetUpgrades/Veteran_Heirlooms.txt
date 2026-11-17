@@ -13,7 +13,7 @@
   },
   "Nickname": "Veteran Heirlooms",
   "Description": "Points: 6\n\nAt the start of the first round, after rolling Command Dice, randomly determine a single item OR Special Weapon from the available pool of counters - that counter can then be given to any model within this fireteam. This now counts as a free upgrade for that model, and will respawn with them as per normal upgrades. Models must still obey the usual rules for carrying items and weapons, so must have a free slot to equip them.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|det=Hunting Party",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,

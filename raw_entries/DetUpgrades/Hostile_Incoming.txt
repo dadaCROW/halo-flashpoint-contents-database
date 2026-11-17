@@ -13,7 +13,7 @@
   },
   "Nickname": "Hostile Incoming!",
   "Description": "Points: 8\n\nWhen a model makes use of the \"Hot Drop\" Special Order, it may target a cube containing enemy models. If the Hot Drop is successful, when this model lands it will perform a Drop Pod Attack - Frag (5), AP 1 ranged attack on the cube chosen. After the attack, the ODST Model will be placed in the cube with 1 short action remaining.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|det=ODST Corps",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,

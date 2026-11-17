@@ -13,7 +13,7 @@
   },
   "Nickname": "Ambush Hunters",
   "Description": "Points: 4\n\nIn this Fireteam, add the Scout keyword to all the Sniper and Chosen Warrior unit profiles.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|det=Hunting Party",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,

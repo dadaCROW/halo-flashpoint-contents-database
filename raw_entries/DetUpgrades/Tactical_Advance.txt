@@ -13,7 +13,7 @@
   },
   "Nickname": "Tactical Advance",
   "Description": "Points: 2\n\nInstead of activating this model normally, Spend a Special Order Command result at the start of your activation to allow the active (if not pinned) model to perform an Advance, Shoot (Short action only), and then a second Advance action. Other than using other Command Dice, or Items, this models activation will end after this Special Order is used.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|det=ODST Corps",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,

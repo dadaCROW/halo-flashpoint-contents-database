@@ -13,7 +13,7 @@
   },
   "Nickname": "Tactical Display Unit",
   "Description": "Points: 4\n\nThe Fireteam can deploy a Banished Tactical Display Unit (TDU) at the start of the game in any cube at the top of the stack. Do this before any models are deployed. Roll off if both players have this ability. At the start of each Round, before rolling Command Dice, choose a friendly model in the same cube as the TDU. That model gains Tactician (1) for that Round, or increases its Tactician value by +1 if it already has it.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|det=Hunting Party",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,

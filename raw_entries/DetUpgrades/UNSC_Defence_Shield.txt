@@ -13,7 +13,7 @@
   },
   "Nickname": "UNSC Defence Shield",
   "Description": "Points: 2\n\nDeploy up to 2 UNSC Defence Shields in seperate Cubes at the start of the game. Models that are within the same cube gain +1 Armour whilst in that cube against Shoot actions. Once Deployed the UNSC Defence Shield cannot be moved or destroyed. This bonus applies to any model, Friendly or Enemy.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|det=ODST Corps",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,

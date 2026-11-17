@@ -13,7 +13,7 @@
   },
   "Nickname": "Suppression Protocol",
   "Description": "Points: 5\n\nAt the start of the first battle round, pick up to 3 friendly models with ranged weapons that do not have the Grenade, Incendiary, Explosive, or Lunge keywords. Until the end of the game, those weapons now all have the Rapid Fire keyword. This can only be used on default weapons for those models and not any weapons assigned to the model through list-building, or weapon spawns.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|det=ODST Corps",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,

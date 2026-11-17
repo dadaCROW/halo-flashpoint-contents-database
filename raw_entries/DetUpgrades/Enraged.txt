@@ -13,7 +13,7 @@
   },
   "Nickname": "Enraged",
   "Description": "Points: 8\n\nIf at the start of thier activation a Jiralhanae Berserker is wounded, the model will gain the Fearless keyword (This will remove any Pinned Token on the model). They do not have it when they are at full health. They may gain and lose the keyword throughout the game depending on their current condition.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|det=Hunting Party",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,
