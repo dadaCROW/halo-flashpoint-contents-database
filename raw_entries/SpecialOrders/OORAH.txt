@@ -1,0 +1,61 @@
+{
+  "GUID": "b8de43",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": -36.8590164,
+    "posY": 1.079383,
+    "posZ": -19.03284,
+    "rotX": 359.993835,
+    "rotY": 179.999863,
+    "rotZ": 359.681274,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "OORAH!",
+  "Description": "Points: 4\n\n(Must contain Sergeant Major Avery Johnson)\n\nSpend a Special Order result at the start of Sergeant Major Johnsons Activation.  This may be used before respawning if Sergeant Major Avery Johnson is not on the board.\n\nUntil the end of this Round, all friendly models in this Fireteam gain Weight of Fire (2) on all Shoot actions they perform while within 3 cubes of Sergeant Major Johnson. This cannot be combined with another other source of Weight of Fire.",
+  "GMNotes": "HFMenu|faction=UNSC",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Special Order UNSC"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 100600,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "1006": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13416730939161256202/C284E9522AE96917ABA3C835A0C93AE2F08A0F0C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13416730939161256202/C284E9522AE96917ABA3C835A0C93AE2F08A0F0C/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": ""
+}

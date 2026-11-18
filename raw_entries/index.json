@@ -1444,6 +1444,21 @@
       "category": "SpecialOrders",
       "key": "Bonded_Mgalekgolo_Only",
       "file": "SpecialOrders/Bonded_Mgalekgolo_Only.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "OORAH",
+      "file": "SpecialOrders/OORAH.txt"
+    },
+    {
+      "category": "ModelCards",
+      "key": "Master_Chief_MA5B_Assault_Rifle",
+      "file": "ModelCards/Master_Chief_MA5B_Assault_Rifle.txt"
+    },
+    {
+      "category": "Models",
+      "key": "Master_Chief_MA5B_Assault_Rifle",
+      "file": "Models/Master_Chief_MA5B_Assault_Rifle.txt"
     }
   ]
 }

@@ -7,7 +7,7 @@
         "scaleZ": 0.75,
         "rotY": 270
       },
-      "Nickname": "Master Chief",
+      "Nickname": "Master Chief\n(Energy Sword)",
       "Description": "[b][1C4811]UNSC[-][/b]",
       "GMNotes": "",
       "Locked": false,
