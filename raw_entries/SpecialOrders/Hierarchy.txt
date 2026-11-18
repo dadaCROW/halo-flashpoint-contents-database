@@ -1,0 +1,61 @@
+{
+  "GUID": "5b9e34",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": -36.8590164,
+    "posY": 1.079383,
+    "posZ": -19.03284,
+    "rotX": 359.993835,
+    "rotY": 179.999863,
+    "rotZ": 359.681274,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "Hierarchy",
+  "Description": "Points: 2\n\nIf there are one or more friendly Sangheili models on the board, spend a Special Order result at the end of a friendly model’s activation to allow up to two other friendly Unggoy or Kig-Yar models, or one other Sangheili model to each make a one-cube Advance or a Crouch Action. This Special Order may only be used once per Round and may not be used on Pinned models, or to move into an Enemy model’s cube.",
+  "GMNotes": "HFMenu|faction=Covenant",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Special Order Covenant"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 100300,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "1003": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16060554968156543198/C0B8B3D4B6E7971CE121286689BF460E5D498B47/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/16060554968156543198/C0B8B3D4B6E7971CE121286689BF460E5D498B47/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": ""
+}

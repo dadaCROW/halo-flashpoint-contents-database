@@ -1424,6 +1424,26 @@
       "category": "Models",
       "key": "Sangheili_Mercenary_Concussion_Rifle",
       "file": "Models/Sangheili_Mercenary_Concussion_Rifle.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Endless_Schemes",
+      "file": "SpecialOrders/Endless_Schemes.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Hierarchy",
+      "file": "SpecialOrders/Hierarchy.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Plasma_Mastery",
+      "file": "SpecialOrders/Plasma_Mastery.txt"
+    },
+    {
+      "category": "SpecialOrders",
+      "key": "Bonded_Mgalekgolo_Only",
+      "file": "SpecialOrders/Bonded_Mgalekgolo_Only.txt"
     }
   ]
 }

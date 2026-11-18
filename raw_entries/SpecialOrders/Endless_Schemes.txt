@@ -1,0 +1,61 @@
+{
+  "GUID": "b0c918",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": -36.8590164,
+    "posY": 1.079383,
+    "posZ": -19.03284,
+    "rotX": 359.993835,
+    "rotY": 179.999863,
+    "rotZ": 359.681274,
+    "scaleX": 0.81,
+    "scaleY": 1.0,
+    "scaleZ": 0.75
+  },
+  "Nickname": "Endless Schemes",
+  "Description": "Points: 6\n\nSpend a Special Order result after your opponent declares they are using any Command Dice result.  Your opponent must then spend a second Command Dice (of any result) to successfully use the result they wanted - in effect it costs double.  If they do not have a second dice available to spend, instead, their dice is spent and has no effect.",
+  "GMNotes": "HFMenu|faction=Covenant",
+  "AltLookAngle": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "Tags": [
+    "Special Order Covenant"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 100200,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "1002": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17434305174230150643/2B9876FB6B242C8BEB30AD1AF7FE8E13D1AF425C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17434305174230150643/2B9876FB6B242C8BEB30AD1AF7FE8E13D1AF425C/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  },
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": ""
+}

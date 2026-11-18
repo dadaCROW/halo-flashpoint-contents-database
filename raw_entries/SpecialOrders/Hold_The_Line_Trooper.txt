@@ -14,7 +14,7 @@
   },
   "Nickname": "Hold The Line Trooper",
   "Description": "Points: 5\n\nSpend a Special Order Command Dice result at the start of a models activation to allow up to 1 friendly model to perform a free stand up action.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|faction=UNSC",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,

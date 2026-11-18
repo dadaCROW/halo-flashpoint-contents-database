@@ -13,7 +13,7 @@
   },
   "Nickname": "Aerial Deployment",
   "Description": "Points: 4\n\nModels with the Jump Pack keyword can be deployed using Aerial Deployment.\n\nThis Special Order can be used in two different ways:\n\n1. When a model is respawning\n\nWhen the active model respawns: instead of advancing onto the board at a respawn point, it may spend a Special Order result to take an Advance action to deploy onto any cube on the board. It must be placed on the top level of the cube stack.\n\nRoll a 3 Dice Ranged test (2).\n\nRanged test wins. No effect. \n\nRange test fails. The model is Pinned and scatters into an adjacent cube (make a scatter roll to determine which direction - this is forced movement from the target cube).\n\n2. At the start of the first Round\n\nImmediately after rolling Command Dice is completed and before the first Turn, you may spend a Special Order result to remove one friendly model from the board. When this model subsequently activates, deploy it as described above. You may use any number of Special Order results to redeploy that many models.\n\nIf the model would scatter off the board edge, re-roll the scatter dice. This order may not be used to intentionally land in the enemy deployment zone.",
-  "GMNotes": "",
+  "GMNotes": "HFMenu|faction=Banished",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,
